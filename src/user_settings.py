@@ -8,19 +8,20 @@ SOURCE_URLS = [
     # 浪子添加的
 
 
-    "https://t.me/v2ray_configs_pool",   
-    "https://t.me/Farah_VPN",   
-    "https://t.me/V2RayRootFree",   
-    "https://t.me/Proxy_Qavi",   
-    "https://t.me/proxymtprotoir",   
-    "https://t.me/DirectVPN",   
-    "https://t.me/Filtereshekan",   
-    "https://t.me/DirectVPN",       
+
+    "https://t.me/s/v2ray_configs_pool",   
+    "https://t.me/s/Farah_VPN",   
+    "https://t.me/s/V2RayRootFree",   
+    "https://t.me/s/Proxy_Qavi",   
+    "https://t.me/s/proxymtprotoir",   
+    "https://t.me/s/DirectVPN",   
+    "https://t.me/s/Filtereshekan",   
+    "https://t.me/s/DirectVPN",       
     
        
-    "https://t.me/iRoProxy",   
-    "https://t.me/iMTProto",   
-    "https://t.me/wbnet",       
+    "https://t.me/s/iRoProxy",   
+    "https://t.me/s/iMTProto",   
+    "https://t.me/s/wbnet",       
         
 
 
