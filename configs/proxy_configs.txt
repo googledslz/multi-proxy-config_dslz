@@ -5,19 +5,15 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://Kdfn%24Ya!82X7Z%24L%26GD%24Q4V4O@jquery.com:443?security=tls&type=ws&host=letiranbreath-ztmer4ois02nh4ptwp0ync2bmfedlxcj4nk08t8etr8f.v8mqewfl6t3fnwdmul10.workers.dev&path=/eyJqdW5rIjoiVnFpVEdnVmdXdCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&sni=LetIRAnBREath-ztmEr4Ois02nh4pTWp0yNc2bMfEDlXCJ4nK08T8EtR8f.v8MqEwFl6t3FnwDMuL10.WorkerS.Dev&fp=chrome&alpn=http/1.1#🇺🇸 1 - US - Trojan/WS/TLS/UTLS - 443
+trojan://telegram-id-directvpn@13.36.179.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 1 - FR - Trojan/TLS - 22223
 
-trojan://Mojtaba-shieldheart@104.16.211.9:8443?sni=broken-bread-6ba6.shieldheart4.workers.dev&peer=broken-bread-6ba6.shieldheart4.workers.dev&security=tls#🇺🇸 2 - US - Trojan/TLS - 8443
+trojan://telegram-id-directvpn@13.38.232.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 2 - FR - Trojan/TLS - 22223
 
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?security=tls&sni=fra4.chasem2026sud.com#🇩🇪 3 - DE - Trojan/TLS - 10369
+trojan://telegram-id-directvpn@13.39.77.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 3 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@13.36.179.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 4 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@3.75.35.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 4 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@13.38.232.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 5 - FR - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@13.39.77.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 6 - FR - Trojan/TLS - 22223
-
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjg0NWU2YjA4LTI5MTktNDI5MC1hZGUwLTVkYzdkY2VhNTljYSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDQ0ODY3LCAicHMiOiAi8J+HrfCfh7AgMSAtIEhLIC0gVk1lc3MvV1MgLSA0NDg2NyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4eo8J+HsyBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HqPCfh7MifQ==
+vmess://eyJhZGQiOiAibjE3NTMzNDg3MzYubGllNWQuY3lvdSIsICJob3N0IjogIm4xNzUzMzQ4NzM2LmxpZTVkLmN5b3UiLCAiaWQiOiAiZjI2N2VhYzMtZGZiNC00NWJlLWE0ODAtN2UxODQ3Y2EwNGFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIm4xNzUzMzQ4NzM2LmxpZTVkLmN5b3UiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIvCfh63wn4ewIDEgLSBISyAtIFZNZXNzL1dTL1RMUyAtIDQ0MyIsICJuYW1lIjogIvCfkYnwn4aUQHYycmF5X2NvbmZpZ3NfcG9vbPCfk6Hwn4et8J+HsMKu77iPSG9uZyBLb25nwqnvuI9Ib25nIEtvbmfwn4W/77iPcGluZzo2MzMuNTZtcyJ9
 
 vmess://eyJhZGQiOiAiMjE3LjIxOC41Mi4xIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3OWVkZjQyOS1mNWMwLTQyMjYtODIzNS0xOGM0NzBjZWRkMjkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxMDg0MSwgInBzIjogIvCfh67wn4e3IDIgLSBJUiAtIFZNZXNzIC0gMTA4NDEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICJAdjJyYXlfZnJlZXgg8J+RiPCfjZUg2qnYp9mG2KfZhCDYqtmE2q/Ysdin2YXbjCDZhdinIn0=
 
