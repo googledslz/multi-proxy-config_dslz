@@ -1321,7 +1321,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.21.7.193",
+            "address": "104.26.13.31",
             "port": 443,
             "users": [
               {
@@ -1340,11 +1340,11 @@
         "wsSettings": {
           "path": "/sni.111000.dynv6.net/",
           "headers": {
-            "Host": "sant.atira-40.workers.dev"
+            "Host": "sany.tara132.workers.dev"
           }
         },
         "tlsSettings": {
-          "serverName": "sant.atira-40.workers.dev",
+          "serverName": "sany.tara132.workers.dev",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -3155,30 +3155,6 @@
     },
     {
       "tag": "proxy-143",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "82.198.246.250",
-            "port": 180,
-            "users": [
-              {
-                "id": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-                "alterId": 0,
-                "security": "auto",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "none"
-      }
-    },
-    {
-      "tag": "proxy-144",
       "protocol": "vmess",
       "settings": {
         "vnext": [
