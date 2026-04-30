@@ -208,7 +208,6 @@
                 "🇮🇩 117 - ID - SS/AEAD - 990",
                 "🇱🇻 126 - LV - SS/AEAD - 24637",
                 "🇳🇱 130 - NL - SS/AEAD - 8080",
-                "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇬🇧 137 - GB - SS/AEAD - 443",
                 "🇬🇧 138 - GB - SS/AEAD - 443",
                 "🇬🇧 139 - GB - SS/AEAD - 443",
@@ -263,7 +262,6 @@
                 "🇬🇧 693 - GB - SS/AEAD - 443",
                 "🇬🇧 694 - GB - SS/AEAD - 80",
                 "🇺🇸 9 - US - Trojan/WS/TLS - 443",
-                "🇭🇰 29 - HK - VMess - 30830",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
@@ -385,7 +383,6 @@
                 "🇮🇩 117 - ID - SS/AEAD - 990",
                 "🇱🇻 126 - LV - SS/AEAD - 24637",
                 "🇳🇱 130 - NL - SS/AEAD - 8080",
-                "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇬🇧 137 - GB - SS/AEAD - 443",
                 "🇬🇧 138 - GB - SS/AEAD - 443",
                 "🇬🇧 139 - GB - SS/AEAD - 443",
@@ -440,7 +437,6 @@
                 "🇬🇧 693 - GB - SS/AEAD - 443",
                 "🇬🇧 694 - GB - SS/AEAD - 80",
                 "🇺🇸 9 - US - Trojan/WS/TLS - 443",
-                "🇭🇰 29 - HK - VMess - 30830",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
@@ -1997,14 +1993,6 @@
         },
         {
             "type": "shadowsocks",
-            "tag": "🇷🇴 132 - RO - SS/AEAD - 443",
-            "server": "154.46.31.106",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "QFWzCw2uX9B9i6qAYeFBIE"
-        },
-        {
-            "type": "shadowsocks",
             "tag": "🇬🇧 137 - GB - SS/AEAD - 443",
             "server": "admin.c1.webramz.co",
             "server_port": 443,
@@ -2451,19 +2439,6 @@
                 "headers": {
                     "Host": "sni.111000.dynv6.net"
                 }
-            }
-        },
-        {
-            "type": "vmess",
-            "tag": "🇭🇰 29 - HK - VMess - 30830",
-            "server": "v30.hdacd.com",
-            "server_port": 30830,
-            "uuid": "cbb3f877-d1fb-344c-87a9-d153bffd5484",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {},
-            "tls": {
-                "enabled": false
             }
         },
         {
