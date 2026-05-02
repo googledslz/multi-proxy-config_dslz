@@ -2163,10 +2163,10 @@
       "settings": {
         "servers": [
           {
-            "address": "38.180.161.123",
-            "port": 8119,
+            "address": "141.164.45.187",
+            "port": 7001,
             "method": "aes-256-gcm",
-            "password": "cdBIDV42DCwnfIN",
+            "password": "RexnBgU7EV5ADxG",
             "level": 8
           }
         ]
@@ -2181,10 +2181,10 @@
       "settings": {
         "servers": [
           {
-            "address": "38.180.2.141",
-            "port": 5499,
+            "address": "38.180.161.123",
+            "port": 8119,
             "method": "aes-256-gcm",
-            "password": "lGqs95QkFHo2NV",
+            "password": "cdBIDV42DCwnfIN",
             "level": 8
           }
         ]
@@ -2199,10 +2199,10 @@
       "settings": {
         "servers": [
           {
-            "address": "149.102.149.207",
-            "port": 443,
+            "address": "38.180.2.141",
+            "port": 5499,
             "method": "aes-256-gcm",
-            "password": "umWwoQJEJGf74SLe",
+            "password": "lGqs95QkFHo2NV",
             "level": 8
           }
         ]
@@ -2236,7 +2236,7 @@
         "servers": [
           {
             "address": "149.102.149.207",
-            "port": 80,
+            "port": 443,
             "method": "aes-256-gcm",
             "password": "umWwoQJEJGf74SLe",
             "level": 8
@@ -2249,6 +2249,24 @@
     },
     {
       "tag": "proxy-99",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "149.102.149.207",
+            "port": 80,
+            "method": "aes-256-gcm",
+            "password": "umWwoQJEJGf74SLe",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      }
+    },
+    {
+      "tag": "proxy-100",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -2279,7 +2297,7 @@
       }
     },
     {
-      "tag": "proxy-100",
+      "tag": "proxy-101",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2303,7 +2321,7 @@
       }
     },
     {
-      "tag": "proxy-101",
+      "tag": "proxy-102",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2327,7 +2345,7 @@
       }
     },
     {
-      "tag": "proxy-102",
+      "tag": "proxy-103",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2351,7 +2369,7 @@
       }
     },
     {
-      "tag": "proxy-103",
+      "tag": "proxy-104",
       "protocol": "vmess",
       "settings": {
         "vnext": [
