@@ -17,3 +17,7 @@ trojan://telegram-id-directvpn@63.184.19.242:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-v2rayvpnchannel@63.184.19.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 6 - DE - Trojan/TLS - 22223
 
+hysteria2://Fa3JN012u2@x.kishonline.online:443?security=tls&obfs=salamander&obfs-password=kish-data&insecure=0&sni=x.kishonline.online#🇮🇷 1 - IR - Hysteria2/QUIC/OBFS - 443
+
+vmess://eyJhZGQiOiAiOjpmZmZmOmJjNzI6NjIwMCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgzIiwgImZwIjogImNocm9tZSIsICJob3N0IjogInd3dy5teWRyaXZlcmxpY2VuY2UuY29tIiwgImlkIjogImZmZWNlMmE5LTAyOTYtNDZhOS04ZGI4LTc0MmQyOWQyNDBmZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJFMmNpV3loMlBGbGJJek5YSTA4cVJGdDBaMVFSU0NjeFZpeE5CVmRaQlRjaE9Yc3dmMjB4TFgwSFIyWkdGeGgwIiwgInBvcnQiOiA0NDMsICJwcyI6ICLwn4e68J+HuCAxIC0gVVMgLSBWTWVzcy9XUy9UTFMvVVRMUyAtIDQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid3d3Lm15ZHJpdmVybGljZW5jZS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4em8J+HuSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HpvCfh7kifQ==
+
