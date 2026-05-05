@@ -5,17 +5,23 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://telegram-id-directvpn@15.188.230.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 1 - FR - Trojan/TLS - 22223
+trojan://1991@8.35.211.159:2087?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijer68412.workers.dev&security=tls#🇺🇸 1 - US - Trojan/TLS - 2087
 
-trojan://telegram-id-directvpn@18.185.147.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 2 - DE - Trojan/TLS - 22223
+trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.145.202:443?sni=vless.lrdxw.club&peer=vless.lrdxw.club&security=tls#🇺🇸 2 - US - Trojan/TLS - 443
 
-trojan://telegram-id-directvpn@18.192.237.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3 - DE - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@15.188.230.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 3 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@35.181.209.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 4 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@18.185.147.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 4 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@52.47.165.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 5 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@18.192.237.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 5 - DE - Trojan/TLS - 22223
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cgMSAtIElSIC0gVk1lc3MgLSAyMDkyMCIsICJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJwb3J0IjogMjA5MjAsICJpZCI6ICIxMjBiNmVlOC1hNDY1LTQ5NDQtYTNmZi04NTBjZGYwYTcwMGQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfjoHinKggQFJlZ2FQbHVzIn0=
+trojan://telegram-id-directvpn@35.181.209.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 6 - FR - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAiMTA3LjE3NS45MS4xMTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjFiYjFmOTVmLTc0MjUtNDQ0Mi05M2Y3LThmYzFiZDFhMjAwMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdjJyYXktd2lzcCIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAi8J+HuvCfh7ggMiAtIFVTIC0gVk1lc3MvV1MvVExTIC0gNDQzIiwgIm5hbWUiOiAi8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29s8J+TofCfh7rwn4e4wq7vuI9Vbml0ZWQgU3RhdGVzwqnvuI9EYWxsYXPwn4W/77iPcGluZzoxNDcuMDdtcyJ9
+trojan://telegram-id-directvpn@52.47.165.159:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 7 - FR - Trojan/TLS - 22223
+
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@snappfood.ir:80?encryption=none&type=ws&path=/ws&host=cdnisfucka.drnimaamini.ir#🇮🇷 1 - IR - VLESS/WS - 80
+
+vless://df58aacd-86b8-41e2-a399-d6ccbe1527d0@185.252.86.89:443?encryption=none&type=xhttp&path=/&host=invalidconnection.global.ssl.fastly.net&mode=auto&extra={"xPaddingBytes":"0"}#🇩🇪 2 - DE - VLESS/XHTTP - 443
+
+vmess://eyJhZGQiOiAiMTQwLjIzOC4yLjI1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAicHMiOiAi8J+HsPCfh7cgMSAtIEtSIC0gVk1lc3MgLSA0NDMiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIvCfh7Dwn4e3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4ew8J+HtyJ9
 
