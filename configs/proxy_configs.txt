@@ -5,29 +5,37 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://telegram-id-directvpn@13.36.216.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 1 - FR - Trojan/TLS - 22223
+trojan://1a4f02de-4a6d-4d4b-8cc7-ed3b5d34c959@hkzoa.osaip.net:443?allowInsecure=0&type=grpc&serviceName=violet#🇭🇰 1 - HK - Trojan/GRPC/TLS - 443
 
-trojan://telegram-id-directvpn@15.224.9.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 2 - FR - Trojan/TLS - 22223
+trojan://1a4f02de-4a6d-4d4b-8cc7-ed3b5d34c959@hkzoa.osaip.net:443?allowInsecure=0&type=grpc&serviceName=violet#🇭🇰 2 - HK - Trojan/GRPC/TLS - 443
 
-trojan://telegram-id-directvpn@15.224.94.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 3 - FR - Trojan/TLS - 22223
+trojan://1a4f02de-4a6d-4d4b-8cc7-ed3b5d34c959@jplic.osaip.net:25055?allowInsecure=0&type=grpc&serviceName=violet#🇯🇵 3 - JP - Trojan/GRPC/TLS - 25055
 
-trojan://telegram-id-directvpn@3.123.135.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 4 - DE - Trojan/TLS - 22223
+trojan://1a4f02de-4a6d-4d4b-8cc7-ed3b5d34c959@jplic.osaip.net:25055?allowInsecure=0&type=grpc&serviceName=violet#🇯🇵 4 - JP - Trojan/GRPC/TLS - 25055
 
-trojan://telegram-id-directvpn@63.184.179.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 5 - DE - Trojan/TLS - 22223
+trojan://1a4f02de-4a6d-4d4b-8cc7-ed3b5d34c959@usrna.osaip.net:25055?allowInsecure=0&type=grpc&serviceName=violet#🇺🇸 5 - US - Trojan/GRPC/TLS - 25055
 
-vless://08b4ede0-5db7-48f2-a363-b3b5fc623d18@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#🇮🇷 1 - IR - VLESS/WS - 80
+trojan://1a4f02de-4a6d-4d4b-8cc7-ed3b5d34c959@usrna.osaip.net:25055?allowInsecure=0&type=grpc&serviceName=violet#🇺🇸 6 - US - Trojan/GRPC/TLS - 25055
 
-vless://3480e51c-1b0a-4195-901d-90d9cc0b7bb7@185.143.233.5:2095?path=/&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#🇮🇷 2 - IR - VLESS/WS - 2095
+trojan://telegram-id-directvpn@15.224.29.207:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 7 - FR - Trojan/TLS - 22223
 
-vless://c305043b-d9b5-4bcc-98bc-3014d852138f@185.143.233.5:443?path=/@alaedin?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=alaedin4.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=alaedin4.8lack.ir#🇮🇷 3 - IR - VLESS/WS/TLS/UTLS - 443
+trojan://telegram-id-directvpn@15.224.94.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 8 - FR - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicnhzLmJyYXZvLXNpeC5pciIsICJpZCI6ICIzY2M3MzliZS00MzBhLTQ0YjUtOTlkZi02NDNiMTIwMDczNjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODg4MCwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cgMSAtIElSIC0gVk1lc3MvV1MgLSA4ODgwIiwgIm5hbWUiOiAi8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29s8J+TofCfh67wn4e3wq7vuI9JcmFuwqnvuI9UZWhyxIFu8J+Fv++4j3Bpbmc6NjQuMjFtcyJ9
+trojan://telegram-id-directvpn@3.123.135.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 9 - DE - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAicnhzLmJyYXZvLXNpeC5pciIsICJpZCI6ICIzY2M3MzliZS00MzBhLTQ0YjUtOTlkZi02NDNiMTIwMDczNjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODg4MCwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cgMiAtIElSIC0gVk1lc3MvV1MgLSA4ODgwIiwgIm5hbWUiOiAi8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29s8J+TofCfh67wn4e3wq7vuI9JcmFuwqnvuI9UZWhyxIFu8J+Fv++4j3Bpbmc6NzMuNzVtcyJ9
+trojan://telegram-id-directvpn@52.47.129.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 10 - FR - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAiZnJlZS12Ny0wOS5lbGJydXN3YXkub25saW5lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZyZWUtdjctMDkuZWxicnVzd2F5Lm9ubGluZSIsICJpZCI6ICJiNGJjOGZjZC03MzllLTQ1MjUtOGJlZC0yMGQxMGU4NTA5ODgiLCAibmF0aW9uIjogIiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MtYmFsa2FyIiwgInBvcnQiOiA0NDMsICJwcyI6ICLwn4ep8J+HqiAzIC0gREUgLSBWTWVzcy9XUy9UTFMgLSA0NDMiLCAic2N5IjogImF1dG8iLCAic2VydmVyUG9ydCI6IDAsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJmcmVlLXY3LTA5LmVsYnJ1c3dheS5vbmxpbmUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAi8J+HqfCfh6ogSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh6nwn4eqIn0=
+trojan://telegram-id-directvpn@63.184.179.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 11 - DE - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAibG9naW4ucmFoYWhvc3RhZ2VudHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyODQ5M2E5Yy04YTBhLTQ2OTQtOTg0MS1kNWU4NzFmMzQ5NWYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDE1OSwgInBzIjogIvCfh67wn4e3IDQgLSBJUiAtIFZNZXNzIC0gNDE1OSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIkBIZGRpZnkgLSAxMEdCIn0=
+vless://0053c51b-b1f6-4d11-a087-ad795f65bec1@185.143.233.43:8880?path=/&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#🇮🇷 1 - IR - VLESS/WS - 8880
 
-vmess://eyJtb2RlIjogIiIsICJwcyI6ICLwn4eu8J+HtyA1IC0gSVIgLSBWTWVzcyAtIDQxNTkiLCAidiI6ICIyIiwgInRscyI6ICJub25lIiwgInNlcnZpY2VOYW1lIjogIm5vbmUiLCAiZXh0cmEiOiAiIiwgImZwIjogIiIsICJhdXRob3JpdHkiOiAiIiwgInBhdGgiOiAiIiwgImhlYWRlclR5cGUiOiAibm9uZSIsICJzZWVkIjogIiIsICJpZCI6ICIyODQ5M2E5Yy04YTBhLTQ2OTQtOTg0MS1kNWU4NzFmMzQ5NWYiLCAiZGV2aWNlSUQiOiAiIiwgInR5cGUiOiAibm9uZSIsICJwb3J0IjogNDE1OSwgImFscG4iOiAiIiwgImFkZCI6ICJsb2dpbi5yYWhhaG9zdGFnZW50cy5jb20iLCAibmV0IjogInRjcCIsICJzbmkiOiAiIiwgImZyYWdtZW50IjogIiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJuYW1lIjogItiq2YTar9ix2KfZhSB8IEBGbGFzaFR1bm5lbFgifQ==
+vless://4d400592-45a1-4e05-80f6-8581658e71eb@5.159.54.140:443?security=reality&encryption=none&pbk=A6_kAMUcoxeuilXwMvzPYFAP8ekULjxDu4KmQssG7Gc&headerType=none&fp=chrome&spx=/&type=tcp&sni=aparat.com&sid=510b7f2f#🇮🇷 2 - IR - VLESS/REALITY/PBK/SID/UTLS - 443
+
+vless://87a09075-f5f0-4ff9-80df-3e81fcdfd10d@185.143.234.235:80?path=/&security=none&encryption=none&host=d.nsa03.com&type=ws#🇮🇷 3 - IR - VLESS/WS - 80
+
+vmess://eyJhZGQiOiAiMTg1LjIzNi4zOC40NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzllNDI1MzctODY1Mi00YTRjLTg1ZDMtMGQzNmFiZjM4Zjg4IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTk5NDYsICJwcyI6ICLwn4eu8J+HtyAxIC0gSVIgLSBWTWVzcyAtIDE5OTQ2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAiQGkxMFZQTiAtIFBzaXBob24gNTcifQ==
+
+vmess://eyJhZGQiOiAid3d3LnNob3BpZnkuY29tIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZGUuZ2Z3LmhpZG5zLmNvIiwgImlkIjogIjMxNzFhYzVjLWQ3NDYtNDI5OC04MmUwLWQ0NmYyZjVhYTUxZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFuZmVuZyIsICJwb3J0IjogODAsICJwcyI6ICLwn4e68J+HuCAyIC0gVVMgLSBWTWVzcy9XUyAtIDgwIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAi8J+HqfCfh6ogSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh6nwn4eqIn0=
+
+vmess://eyJhZGQiOiAibG9naW4ucmFoYWhvc3RhZ2VudHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyODQ5M2E5Yy04YTBhLTQ2OTQtOTg0MS1kNWU4NzFmMzQ5NWYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDE1OSwgInBzIjogIvCfh67wn4e3IDMgLSBJUiAtIFZNZXNzIC0gNDE1OSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIkBIZGRpZnkgLSAxMEdCIn0=
 
