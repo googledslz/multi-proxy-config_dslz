@@ -157,11 +157,13 @@
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
                 "🇹🇼 36 - TW - SS/AEAD - 50099",
                 "🇹🇼 35 - TW - SS/AEAD - 50099",
+                "🇹🇼 37 - TW - SS/AEAD - 50099",
                 "🇹🇼 38 - TW - SS/AEAD - 50099",
                 "🇳🇱 76 - NL - SS/AEAD - 8080",
                 "🇬🇧 87 - GB - SS/AEAD - 443",
                 "🇫🇮 101 - FI - SS/AEAD - 28687",
                 "🇮🇩 102 - ID - SS/AEAD - 990",
+                "🇲🇦 104 - MA - SS/AEAD - 990",
                 "🇨🇱 108 - CL - SS/AEAD - 990",
                 "🇧🇭 107 - BH - SS/AEAD - 990",
                 "🇲🇹 109 - MT - SS/AEAD - 990",
@@ -205,7 +207,6 @@
                 "🇸🇬 683 - SG - SS/AEAD - 80",
                 "🇺🇸 685 - US - SS/AEAD - 80",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
-                "🇨🇭 686 - CH - SS/AEAD - 8119",
                 "🇧🇬 690 - BG - SS/AEAD - 5499",
                 "🇬🇧 692 - GB - SS/AEAD - 443",
                 "🇬🇧 693 - GB - SS/AEAD - 443",
@@ -282,11 +283,13 @@
                 "🇳🇱 6 - NL - SS/AEAD - 8080",
                 "🇹🇼 36 - TW - SS/AEAD - 50099",
                 "🇹🇼 35 - TW - SS/AEAD - 50099",
+                "🇹🇼 37 - TW - SS/AEAD - 50099",
                 "🇹🇼 38 - TW - SS/AEAD - 50099",
                 "🇳🇱 76 - NL - SS/AEAD - 8080",
                 "🇬🇧 87 - GB - SS/AEAD - 443",
                 "🇫🇮 101 - FI - SS/AEAD - 28687",
                 "🇮🇩 102 - ID - SS/AEAD - 990",
+                "🇲🇦 104 - MA - SS/AEAD - 990",
                 "🇨🇱 108 - CL - SS/AEAD - 990",
                 "🇧🇭 107 - BH - SS/AEAD - 990",
                 "🇲🇹 109 - MT - SS/AEAD - 990",
@@ -330,7 +333,6 @@
                 "🇸🇬 683 - SG - SS/AEAD - 80",
                 "🇺🇸 685 - US - SS/AEAD - 80",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
-                "🇨🇭 686 - CH - SS/AEAD - 8119",
                 "🇧🇬 690 - BG - SS/AEAD - 5499",
                 "🇬🇧 692 - GB - SS/AEAD - 443",
                 "🇬🇧 693 - GB - SS/AEAD - 443",
@@ -1438,6 +1440,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇹🇼 37 - TW - SS/AEAD - 50099",
+            "server": "r3mrcg001269pz2.cybervena.com",
+            "server_port": 50099,
+            "method": "chacha20-ietf-poly1305",
+            "password": "7e731ec3-f8e1-43f6-92cf-3978d14705c4"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇹🇼 38 - TW - SS/AEAD - 50099",
             "server": "r3mrcg007117fb8.cybervena.com",
             "server_port": 50099,
@@ -1472,6 +1482,14 @@
             "type": "shadowsocks",
             "tag": "🇮🇩 102 - ID - SS/AEAD - 990",
             "server": "154.205.159.100",
+            "server_port": 990,
+            "method": "chacha20-ietf-poly1305",
+            "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇲🇦 104 - MA - SS/AEAD - 990",
+            "server": "154.70.207.97",
             "server_port": 990,
             "method": "chacha20-ietf-poly1305",
             "password": "ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44="
@@ -1819,14 +1837,6 @@
             "server_port": 7001,
             "method": "aes-256-gcm",
             "password": "RexnBgU7EV5ADxG"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇨🇭 686 - CH - SS/AEAD - 8119",
-            "server": "38.180.161.123",
-            "server_port": 8119,
-            "method": "aes-256-gcm",
-            "password": "cdBIDV42DCwnfIN"
         },
         {
             "type": "shadowsocks",
