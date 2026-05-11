@@ -5,17 +5,25 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 1 - FR - Trojan/TLS - 22223
+trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http/1.1&type=ws&host=abest.api-tel.xyz&path=/#🇺🇸 1 - US - Trojan/WS/TLS - 443
 
-trojan://telegram-id-directvpn@15.224.80.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 2 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 2 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@51.44.92.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 3 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@15.224.80.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 3 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@63.178.170.208:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 4 - DE - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@3.126.44.218:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 4 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@63.180.116.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 5 - DE - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@51.44.92.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 5 - FR - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAiMTg1LjIzNi4zOC40NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzllNDI1MzctODY1Mi00YTRjLTg1ZDMtMGQzNmFiZjM4Zjg4IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTk5NDYsICJwcyI6ICLwn4eu8J+HtyAxIC0gSVIgLSBWTWVzcyAtIDE5OTQ2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAi4pyFIHQubWUvYmlnQVZQTiDYp9uM2LHYp9mGINii2LLYp9ivIPCfkZEifQ==
+trojan://telegram-id-directvpn@63.178.170.208:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 6 - DE - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAid3d3LmFydmFuY2xvdWQuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiVmlQLVNlcnZpY2VTZWxsZXJJTlRlbGVncmFtLmhheXBlcnouaXIiLCAiaWQiOiAiYTAwZjAxYWEtZDk3NS00YzY3LWI2ZDgtYjMwOTVkZmY3NWNkIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1ZpUFNlcnZpY2UiLCAicG9ydCI6IDIwOTUsICJwcyI6ICLwn4eu8J+HtyAyIC0gSVIgLSBWTWVzcy9XUyAtIDIwOTUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIuKdpO+4jyBjaGFubmVsIPCfjJ9ATmVlZHZwbmZyZWXwn5SlIn0=
+vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAxODAwMCwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICLwn4e68J+HuCAxIC0gVVMgLSBWTWVzcyAtIDE4MDAwIiwgIm5hbWUiOiAi8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29s8J+TofCfh7rwn4e4wq7vuI9Vbml0ZWQgU3RhdGVzwqnvuI9CYWwgSGFyYm91cvCfhb/vuI9waW5nOjEwNi45Mm1zIn0=
+
+vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMjIzMjQsICJwcyI6ICLwn4eu8J+HuSAyIC0gSVQgLSBWTWVzcyAtIDIyMzI0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh67wn4e5IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4eu8J+HuSJ9
+
+vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIyMzI0LCAicHMiOiAi8J+HuvCfh7ggMyAtIFVTIC0gVk1lc3MgLSAyMjMyNCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+HuvCfh7ggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7rwn4e4In0=
+
+vmess://eyJhZGQiOiAiMTg1LjIzNi4zOC40NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzllNDI1MzctODY1Mi00YTRjLTg1ZDMtMGQzNmFiZjM4Zjg4IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTk5NDYsICJwcyI6ICLwn4eu8J+HtyA0IC0gSVIgLSBWTWVzcyAtIDE5OTQ2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAi4pyFIHQubWUvYmlnQVZQTiDYp9uM2LHYp9mGINii2LLYp9ivIPCfkZEifQ==
+
+vmess://eyJhZGQiOiAiMjE2LjEwNi4xODMuMzUiLCAiYWlkIjogIjEiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIvCfh7rwn4e4IDUgLSBVUyAtIFZNZXNzIC0gMjIzMjQiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICLwn4e68J+HuCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HuvCfh7gifQ==
 
