@@ -2087,10 +2087,10 @@
       "settings": {
         "servers": [
           {
-            "address": "38.180.2.141",
-            "port": 5499,
+            "address": "38.180.161.123",
+            "port": 8119,
             "method": "aes-256-gcm",
-            "password": "lGqs95QkFHo2NV",
+            "password": "cdBIDV42DCwnfIN",
             "level": 8
           }
         ]
@@ -2105,10 +2105,10 @@
       "settings": {
         "servers": [
           {
-            "address": "149.102.149.207",
-            "port": 443,
+            "address": "38.180.2.141",
+            "port": 5499,
             "method": "aes-256-gcm",
-            "password": "umWwoQJEJGf74SLe",
+            "password": "lGqs95QkFHo2NV",
             "level": 8
           }
         ]
@@ -2142,7 +2142,7 @@
         "servers": [
           {
             "address": "149.102.149.207",
-            "port": 80,
+            "port": 443,
             "method": "aes-256-gcm",
             "password": "umWwoQJEJGf74SLe",
             "level": 8
@@ -2155,6 +2155,24 @@
     },
     {
       "tag": "proxy-95",
+      "protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "149.102.149.207",
+            "port": 80,
+            "method": "aes-256-gcm",
+            "password": "umWwoQJEJGf74SLe",
+            "level": 8
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp"
+      }
+    },
+    {
+      "tag": "proxy-96",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -2185,7 +2203,7 @@
       }
     },
     {
-      "tag": "proxy-96",
+      "tag": "proxy-97",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2209,7 +2227,7 @@
       }
     },
     {
-      "tag": "proxy-97",
+      "tag": "proxy-98",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2233,7 +2251,7 @@
       }
     },
     {
-      "tag": "proxy-98",
+      "tag": "proxy-99",
       "protocol": "vmess",
       "settings": {
         "vnext": [
