@@ -1086,11 +1086,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "77.92.145.222",
+            "address": "104.26.13.31",
             "port": 443,
             "users": [
               {
-                "id": "53821f3c-5b03-456a-89f3-f8379f130752",
+                "id": "6202b230-417c-4d8e-b624-0f71afa9c75d",
                 "flow": "",
                 "encryption": "none",
                 "level": 8
@@ -1100,12 +1100,20 @@
         ]
       },
       "streamSettings": {
-        "network": "tcp",
+        "network": "ws",
         "security": "tls",
+        "wsSettings": {
+          "path": "/sni.111000.dynv6.net/",
+          "headers": {
+            "Host": "sany.tara132.workers.dev"
+          }
+        },
         "tlsSettings": {
-          "serverName": "www.vk.com",
+          "serverName": "sany.tara132.workers.dev",
           "allowInsecure": false,
-          "fingerprint": "chrome"
+          "alpn": [
+            "http/1.1"
+          ]
         }
       }
     },
@@ -2087,10 +2095,10 @@
       "settings": {
         "servers": [
           {
-            "address": "38.180.161.123",
-            "port": 8119,
+            "address": "38.180.2.141",
+            "port": 5499,
             "method": "aes-256-gcm",
-            "password": "cdBIDV42DCwnfIN",
+            "password": "lGqs95QkFHo2NV",
             "level": 8
           }
         ]
