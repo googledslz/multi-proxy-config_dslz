@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-05-16T06:11:24.369248+00:00",
+  "timestamp": "2026-05-16T09:12:46.095181+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 17,
+        "valid_configs": 1,
+        "unique_configs": 1,
+        "avg_response_time": 0.42,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 75.84,
+        "last_success": "2026-05-16T09:12:26.108130+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -29,18 +29,18 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 2,
-        "unique_configs": 2,
+        "valid_configs": 1,
+        "unique_configs": 1,
         "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.25,
-        "last_success": "2026-05-16T06:11:06.586719+00:00",
+        "overall_score": 76.0,
+        "last_success": "2026-05-16T09:12:28.303223+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 1,
+          "vmess://": 0,
           "ss://": 0,
           "trojan://": 1,
           "tuic://": 0
@@ -97,7 +97,7 @@
       "url": "https://t.me/s/proxymtprotoir",
       "enabled": false,
       "metrics": {
-        "total_configs": 4,
+        "total_configs": 3,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -126,8 +126,8 @@
         "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.78,
-        "last_success": "2026-05-16T06:11:15.515843+00:00",
+        "overall_score": 99.77,
+        "last_success": "2026-05-16T09:12:37.242940+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
