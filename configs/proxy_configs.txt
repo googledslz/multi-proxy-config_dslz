@@ -9,15 +9,15 @@ trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&mode=auto&securi
 
 trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&mode=auto&security=none#🇮🇷 2 - IR - Trojan/XHTTP/TLS - 443
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇺🇸 3 - US - Trojan/WS/TLS - 443
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=/?proxyip=ip.111000.de5.net%3A443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🇺🇸 3 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 4 - US - Trojan/WS/TLS - 443
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇺🇸 4 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 5 - US - Trojan/WS/TLS - 443
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 5 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 6 - US - Trojan/WS/TLS - 443
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 6 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷 7 - IR - Trojan/WS/TLS - 40443
+trojan://humanity@2.144.22.10:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷 7 - IR - Trojan/WS/TLS/UTLS - 40443
 
 trojan://humanity@2.144.22.10:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷 8 - IR - Trojan/WS/TLS/UTLS - 40443
 
@@ -25,19 +25,13 @@ trojan://telegram-id-directvpn@13.38.175.41:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 10 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 11 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@15.224.91.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 11 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 12 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@3.126.182.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 12 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@15.224.91.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13 - FR - Trojan/TLS - 22223
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqPCfh7MgMSAtIENOIC0gVk1lc3MvV1MgLSA4MCIsICJhZGQiOiAiaG4ueG4tLXdscXcxc3dyajA0anU1NmQuY29tIiwgInBvcnQiOiA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZjlkZGVmYzUtZDEyMS00ODZmLTllMmYtMGMyY2QxYTNkZWNjIiwgImhvc3QiOiAidG1zLmRpbmd0YWxrLmNvbSIsICJwYXRoIjogIi8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh6jwn4ezIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4eo8J+HsyJ9
 
-trojan://telegram-id-directvpn@3.126.182.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 14 - DE - Trojan/TLS - 22223
-
-trojan://telegram-id-privatevpns@15.188.165.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15 - FR - Trojan/TLS - 22222
-
-vmess://eyJhZGQiOiAiMTA3LjE3Mi43NS4xNDEiLCAiaWQiOiAiZTAyYzY3YTgtZDc2OS00ZDczLTgzM2EtYWI2YWNkYjg2ZTZlIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDEwMDg2LCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIvCfh7rwn4e4IDEgLSBVUyAtIFZNZXNzIC0gMTAwODYiLCAibmFtZSI6ICLwn5GJ8J+GlEB2MnJheV9jb25maWdzX3Bvb2zwn5Oh8J+HuvCfh7jCru+4j1VuaXRlZCBTdGF0ZXPCqe+4j0J1ZmZhbG/wn4W/77iPcGluZzoxMTguMDJtcyIsICJ0bHMiOiAibm9uZSJ9
-
-vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImhvc3QiOiAiNDUuMTUuMTg1LjE3IiwgImlkIjogImM1MDNhOTZhLWEyZjUtNDg0Ny1hMzFmLTIwYzE3ZWNmM2JlNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICLwn4em8J+HuiAyIC0gQVUgLSBWTWVzcy9XUyAtIDgwIiwgIm5hbWUiOiAi8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29s8J+TofCfh6bwn4e6wq7vuI9BdXN0cmFsaWHCqe+4j0JvbmRpIEJlYWNo8J+Fv++4j3Bpbmc6MjgyLjg5bXMiLCAidGxzIjogIm5vbmUifQ==
+vmess://eyJhZGQiOiAiMTA3LjE3Mi43NS4xNDEiLCAiaWQiOiAiZTAyYzY3YTgtZDc2OS00ZDczLTgzM2EtYWI2YWNkYjg2ZTZlIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDEwMDg2LCAicHMiOiAi8J+HuvCfh7ggMiAtIFVTIC0gVk1lc3MgLSAxMDA4NiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4e68J+HuCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HuvCfh7giLCAidGxzIjogIm5vbmUifQ==
 
 vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzBkN2MyZWUtODdlZC00OTllLWEwY2MtZWFmZjE2ZjU2M2JiIiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMjIzMDEsICJwcyI6ICLwn4eu8J+HtyAzIC0gSVIgLSBWTWVzcyAtIDIyMzAxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAiQFBlcnNpYW5HdWxmX1Byb3h5IHwg2KrYsdqp24zYqNuMIn0=
 
