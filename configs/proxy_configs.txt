@@ -5,35 +5,39 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇺🇸 1 - US - Trojan/WS/TLS - 443
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&mode=auto&security=none#🇮🇷 1 - IR - Trojan/XHTTP/TLS - 443
 
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 2 - US - Trojan/WS/TLS - 443
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&mode=auto&security=none#🇮🇷 2 - IR - Trojan/XHTTP/TLS - 443
 
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 3 - US - Trojan/WS/TLS - 443
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🇺🇸 3 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇺🇸 4 - US - Trojan/WS/TLS - 443
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 4 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷 5 - IR - Trojan/WS/TLS - 40443
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 5 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@2.144.22.10:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷 6 - IR - Trojan/WS/TLS/UTLS - 40443
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 6 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#✅@AR14N24b🤖بهترین+راهکار+رفع+مشکل+اتصال+به+پروکسی/فیلترشکن+🧠#کانفیگ+#proxy+#v2ray+#اینترنت#🇺🇸 7 - US - Trojan/WS/TLS - 443
+trojan://humanity@193.151.152.73:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#🇮🇷 7 - IR - Trojan/WS/TLS - 40443
 
-trojan://telegram-id-directvpn@13.37.207.166:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 8 - FR - Trojan/TLS - 22223
+trojan://humanity@2.144.22.10:40443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🇮🇷 8 - IR - Trojan/WS/TLS/UTLS - 40443
 
 trojan://telegram-id-directvpn@13.38.175.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 9 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@15.224.91.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 10 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 10 - FR - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@63.176.4.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 11 - DE - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 11 - FR - Trojan/TLS - 22223
 
-vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.194.137.197:443?type=tcp&encryption=none&security=none#🇩🇪 1 - DE - VLESS - 443
+trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 12 - FR - Trojan/TLS - 22223
 
-vless://12361e81-7af2-1cd4-2595-eba27ddadce8@18.192.145.152:443?type=tcp&encryption=none&security=none#🇩🇪 2 - DE - VLESS - 443
+trojan://telegram-id-directvpn@15.224.91.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13 - FR - Trojan/TLS - 22223
 
-vless://81d6a801-ab9f-25a7-c0ba-9acb875e86da@18.185.149.23:443?type=tcp&encryption=none&security=none#🇩🇪 3 - DE - VLESS - 443
+trojan://telegram-id-directvpn@3.126.182.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 14 - DE - Trojan/TLS - 22223
 
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.134.185:443?type=tcp&encryption=none&security=none#🇩🇪 4 - DE - VLESS - 443
+trojan://telegram-id-privatevpns@15.188.165.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15 - FR - Trojan/TLS - 22222
 
-vmess://eyJhZGQiOiAiNS4xODguMTkwLjI1MiIsICJhaWQiOiAiMSIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIyMzI0LCAicHMiOiAi8J+HufCfh7cgMSAtIFRSIC0gVk1lc3MgLSAyMjMyNCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIvCfh7nwn4e3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e58J+HtyJ9
+vmess://eyJhZGQiOiAiMTA3LjE3Mi43NS4xNDEiLCAiaWQiOiAiZTAyYzY3YTgtZDc2OS00ZDczLTgzM2EtYWI2YWNkYjg2ZTZlIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDEwMDg2LCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIvCfh7rwn4e4IDEgLSBVUyAtIFZNZXNzIC0gMTAwODYiLCAibmFtZSI6ICLwn5GJ8J+GlEB2MnJheV9jb25maWdzX3Bvb2zwn5Oh8J+HuvCfh7jCru+4j1VuaXRlZCBTdGF0ZXPCqe+4j0J1ZmZhbG/wn4W/77iPcGluZzoxMTguMDJtcyIsICJ0bHMiOiAibm9uZSJ9
+
+vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImhvc3QiOiAiNDUuMTUuMTg1LjE3IiwgImlkIjogImM1MDNhOTZhLWEyZjUtNDg0Ny1hMzFmLTIwYzE3ZWNmM2JlNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICLwn4em8J+HuiAyIC0gQVUgLSBWTWVzcy9XUyAtIDgwIiwgIm5hbWUiOiAi8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29s8J+TofCfh6bwn4e6wq7vuI9BdXN0cmFsaWHCqe+4j0JvbmRpIEJlYWNo8J+Fv++4j3Bpbmc6MjgyLjg5bXMiLCAidGxzIjogIm5vbmUifQ==
+
+vmess://eyJhZGQiOiAiYjUxZDY0Y2ItYzVkNi00NzkxLThlY2YtMGE2ZDhkNzFjNzE3Lnd0ZiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzBkN2MyZWUtODdlZC00OTllLWEwY2MtZWFmZjE2ZjU2M2JiIiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMjIzMDEsICJwcyI6ICLwn4eu8J+HtyAzIC0gSVIgLSBWTWVzcyAtIDIyMzAxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAiQFBlcnNpYW5HdWxmX1Byb3h5IHwg2KrYsdqp24zYqNuMIn0=
 
