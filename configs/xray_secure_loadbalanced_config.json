@@ -1234,7 +1234,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.26.13.31",
+            "address": "172.67.187.251",
             "port": 443,
             "users": [
               {
@@ -1253,11 +1253,11 @@
         "wsSettings": {
           "path": "/sni.111000.dynv6.net/",
           "headers": {
-            "Host": "sany.tara132.workers.dev"
+            "Host": "sant.atira-40.workers.dev"
           }
         },
         "tlsSettings": {
-          "serverName": "sany.tara132.workers.dev",
+          "serverName": "sant.atira-40.workers.dev",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -2153,10 +2153,10 @@
       "settings": {
         "servers": [
           {
-            "address": "38.180.161.123",
-            "port": 8119,
+            "address": "38.180.2.141",
+            "port": 5499,
             "method": "aes-256-gcm",
-            "password": "cdBIDV42DCwnfIN",
+            "password": "lGqs95QkFHo2NV",
             "level": 8
           }
         ]
@@ -2171,10 +2171,10 @@
       "settings": {
         "servers": [
           {
-            "address": "38.180.2.141",
-            "port": 5499,
+            "address": "149.102.149.207",
+            "port": 443,
             "method": "aes-256-gcm",
-            "password": "lGqs95QkFHo2NV",
+            "password": "umWwoQJEJGf74SLe",
             "level": 8
           }
         ]
@@ -2208,24 +2208,6 @@
         "servers": [
           {
             "address": "149.102.149.207",
-            "port": 443,
-            "method": "aes-256-gcm",
-            "password": "umWwoQJEJGf74SLe",
-            "level": 8
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp"
-      }
-    },
-    {
-      "tag": "proxy-94",
-      "protocol": "shadowsocks",
-      "settings": {
-        "servers": [
-          {
-            "address": "149.102.149.207",
             "port": 80,
             "method": "aes-256-gcm",
             "password": "umWwoQJEJGf74SLe",
@@ -2238,7 +2220,7 @@
       }
     },
     {
-      "tag": "proxy-95",
+      "tag": "proxy-94",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -2269,7 +2251,7 @@
       }
     },
     {
-      "tag": "proxy-96",
+      "tag": "proxy-95",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -2293,31 +2275,7 @@
       }
     },
     {
-      "tag": "proxy-97",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "82.198.246.250",
-            "port": 180,
-            "users": [
-              {
-                "id": "d13fc2f5-3e05-4795-81eb-44143a09e552",
-                "alterId": 0,
-                "security": "auto",
-                "level": 8
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "none"
-      }
-    },
-    {
-      "tag": "proxy-98",
+      "tag": "proxy-96",
       "protocol": "vmess",
       "settings": {
         "vnext": [
