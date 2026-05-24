@@ -5,23 +5,25 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=/trTelegram🇨🇳+@WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#🇮🇷 1 - IR - Trojan/WS/TLS - 2087
+trojan://162534@217.60.248.94:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=/?ed=2560#🇭🇰 1 - HK - Trojan/WS/TLS - 8443
 
-trojan://BxceQaOe@13.114.188.23:8359?allowInsecure=1&sni=t.me/ripaojiedian#🇯🇵 2 - JP - Trojan/TLS - 8359
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=/trTelegram🇨🇳+@WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#🇮🇷 2 - IR - Trojan/WS/TLS - 2087
 
 trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 3 - US - Trojan/WS/TLS/UTLS - 443
 
 trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 4 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 5 - US - Trojan/WS/TLS/UTLS - 443
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 5 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@193.151.132.136:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#🇮🇷 6 - IR - Trojan/WS/TLS - 40443
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#🇺🇸 6 - US - Trojan/WS/TLS - 443
 
-trojan://telegram-id-directvpn@18.157.122.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 7 - DE - Trojan/TLS - 22223
+trojan://humanity@193.151.132.136:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=1#🇮🇷 7 - IR - Trojan/WS/TLS - 40443
 
-trojan://telegram-id-directvpn@35.159.190.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 8 - DE - Trojan/TLS - 22223
+trojan://humanity@sourceforge.net:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🇺🇸 8 - US - Trojan/WS/TLS/UTLS - 443
+
+trojan://telegram-id-directvpn@18.157.122.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 9 - DE - Trojan/TLS - 22223
+
+trojan://telegram-id-directvpn@35.159.190.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 10 - DE - Trojan/TLS - 22223
 
 vless://e546452d-9b01-409f-91c2-b3ffbcc4973f@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#🇮🇷 1 - IR - VLESS/WS - 80
-
-vmess://eyJhZGQiOiAiMTQwLjgzLjUxLjE2MSIsICJhaWQiOiAiMCIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJqcDAyLmEwYS54eXoiLCAiaWQiOiAiNjczM2MzNTctYmExMS00ZTlmLWYwMGYtN2Q4N2YyNzc2ZmY5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jY3R2MTMubTN1OCIsICJwb3J0IjogMjU2ODYsICJwcyI6ICLwn4ev8J+HtSAxIC0gSlAgLSBWTWVzcy9XUy9VVExTIC0gMjU2ODYiLCAic2N5IjogImF1dG8iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4ev8J+HtSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+Hr/Cfh7UifQ==
 
