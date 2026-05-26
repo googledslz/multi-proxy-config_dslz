@@ -1,46 +1,70 @@
 {
-  "127.0.0.1": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.21.7.21": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.16.7.70": [
-    "🇺🇸",
-    "United States"
-  ],
-  "15.188.115.231": [
-    "🇺🇸",
-    "United States"
-  ],
-  "13.39.139.232": [
-    "🇺🇸",
-    "United States"
-  ],
-  "63.180.225.208": [
-    "🇺🇸",
-    "United States"
-  ],
-  "2.144.15.223": [
-    "🇺🇸",
-    "United States"
-  ],
-  "85.198.20.177": [
-    "🇺🇸",
-    "United States"
-  ],
-  "165.140.216.141": [
-    "🇺🇸",
-    "United States"
-  ],
-  "104.19.229.21": [
-    "🇺🇸",
-    "United States"
-  ],
   "8.6.112.6": [
     "🇺🇸",
-    "United States"
+    "United States of America"
+  ],
+  "147.45.101.55": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "167.99.247.93": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "15.188.115.231": [
+    "🇫🇷",
+    "France"
+  ],
+  "63.180.225.208": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "45.11.24.55": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "13.39.139.232": [
+    "🇫🇷",
+    "France"
+  ],
+  "95.164.55.78": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "hn.xn--wlqw1swrj04ju56d.com": [
+    "🇨🇳",
+    "China"
+  ],
+  "82.198.246.9": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "147.45.156.244": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "104.17.77.77": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "2.144.15.223": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "45.81.225.153": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "85.198.20.177": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "13.37.186.112": [
+    "🇫🇷",
+    "France"
+  ],
+  "45.156.22.52": [
+    "🇫🇮",
+    "Finland"
   ]
 }
