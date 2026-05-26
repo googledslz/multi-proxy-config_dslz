@@ -5,21 +5,19 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 1 - US - Trojan/WS/TLS/UTLS - 443
+trojan://Khb-%5EgY1kcxZkX0hPu%3Dsfw!i@104.19.229.21:443?security=tls&type=ws&host=letiranbreath-ujvloe4k5i2fefaf5g8g7mal22ap7oajbbaqn7yah2o0.1hfwevvmo5005t30l573.workers.dev&path=/eyJqdW5rIjoiVGFWbFpnWXdBdmFMV2ZiIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&sni=LETIRaNbReaTH-uJvLOe4k5i2FefaF5G8g7mAl22ap7OajbbaQN7YaH2o0.1hfweVvMo5005t30l573.WOrKErs.DEV&fp=chrome&alpn=http/1.1#🇺🇸 1 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 2 - US - Trojan/WS/TLS/UTLS - 443
+trojan://NmMh2mfWfT*%2Bz4N%3D%5E%2Bgs_O*%5E@127.0.0.1:40443?security=tls&type=ws&host=letiranbreath-irn23ry4abanpgiuebrkaj8j9illchh5r4gn83v84bji.1hfwevvmo5005t30l573.workers.dev&path=/eyJqdW5rIjoickd3UmdOZVJzVkNZa0giLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&sni=LetiraNbReatH-iRn23ry4abAnPgIuEbrkAJ8J9ILlcHh5R4GN83V84bJI.1hFwEvVmO5005T30L573.WoRkerS.Dev&fp=chrome&alpn=http/1.1#🇺🇸 2 - US - Trojan/WS/TLS/UTLS - 40443
 
-trojan://humanity@2.144.15.223:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷 3 - IR - Trojan/WS/TLS - 40443
+trojan://QD0Udygm%40uP37aTX48hMnfBH@104.19.229.21:443?security=tls&type=ws&host=letiranbreath-ttpo0o0j8r6jrpgfgmc2t59gqwd9hovoh2554iw8m76k.1hfwevvmo5005t30l573.workers.dev&path=/eyJqdW5rIjoiTnFwaVNCeVVCbFQiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&sni=LeTiraNbrEATh-tTPo0O0J8R6jRPgFGMC2t59Gqwd9hOvoH2554iW8m76k.1HfwEVVMo5005T30l573.WorkErs.deV&fp=chrome&alpn=http/1.1#🇺🇸 3 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://telegram-id-directvpn@63.176.15.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 4 - DE - Trojan/TLS - 22223
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#🇺🇸 4 - US - Trojan/WS/TLS/UTLS - 443
 
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzNjcwMywgInBzIjogIvCfh63wn4ewIDEgLSBISyAtIFZNZXNzL1dTIC0gMzY3MDMiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAibmFtZSI6ICLwn4et8J+HsCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HrfCfh7AifQ==
+trojan://humanity@2.144.15.223:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇮🇷 5 - IR - Trojan/WS/TLS - 40443
 
-vmess://eyJhZGQiOiAiNjEuMjQ1LjExLjYwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhM2UzYTcxMC03OWY4LTRhZTAtYjgzYy02MDdhYWI0MGQxOTciLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIvCfh7Xwn4etIDIgLSBQSCAtIFZNZXNzL1dTIC0gODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+HtfCfh60gSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7Xwn4etIn0=
+trojan://humanity@2.144.15.223:40443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#🇮🇷 6 - IR - Trojan/WS/TLS - 40443
 
-vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIyMzI0LCAicHMiOiAi8J+HrPCfh6cgMyAtIEdCIC0gVk1lc3MgLSAyMjMyNCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIvCfh6zwn4enIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4es8J+HpyJ9
+trojan://telegram-id-directvpn@63.176.15.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 7 - DE - Trojan/TLS - 22223
 
-vmess://eyJhZGQiOiAiMTUzLjEyMS43My4xNzUiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2QzZGFjYmMtMmI3Yi00NzE4LTgzYWQtYWI4NzBmODdlMTJlIiwgIm5hdGlvbiI6ICIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDk4MDMsICJwcyI6ICLwn4ev8J+HtSA0IC0gSlAgLSBWTWVzcyAtIDQ5ODAzIiwgInNjeSI6ICJhdXRvIiwgInNlcnZlclBvcnQiOiAwLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIvCfh6/wn4e1IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4ev8J+HtSJ9
-
-vmess://eyJhZGQiOiAiMTcyLjEwNC44MC42NiIsICJhaWQiOiAiMSIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwb3J0IjogMjIzMjQsICJwcyI6ICLwn4ev8J+HtSA1IC0gSlAgLSBWTWVzcyAtIDIyMzI0IiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAibmFtZSI6ICLwn4ev8J+HtSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+Hr/Cfh7UifQ==
+trojan://telegram-id-directvpn@63.180.225.208:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 8 - DE - Trojan/TLS - 22223
 
