@@ -5,23 +5,23 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://BxceQaOe@116.80.61.236:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇯🇵 1 - JP - Trojan/TLS - 443
+trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇺🇸 1 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇺🇸 2 - US - Trojan/WS/TLS - 443
+trojan://telegram-id-directvpn@15.188.223.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 2 - FR - Trojan/TLS - 22223
 
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇺🇸 3 - US - Trojan/WS/TLS - 443
+trojan://telegram-id-directvpn@15.236.143.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 3 - FR - Trojan/TLS - 22223
 
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#🇸🇨 4 - SC - Trojan/WS/TLS/UTLS - 443
+trojan://telegram-id-directvpn@15.237.158.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 4 - FR - Trojan/TLS - 22223
 
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#🇺🇸 5 - US - Trojan/WS/TLS - 443
+trojan://telegram-id-directvpn@3.122.176.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 5 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@13.37.186.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 6 - FR - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@63.182.182.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 6 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@15.188.223.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 7 - FR - Trojan/TLS - 22223
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Hr/Cfh7UgMSAtIEpQIC0gVk1lc3MvV1MgLSA4MCIsICJhZGQiOiAiMTY4LjEzOC40My43NSIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsICJob3N0IjogImpwMDEuYTBhLnh5eiIsICJwYXRoIjogIi9jY3R2MTMubTN1OCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+Hr/Cfh7UgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh6/wn4e1In0=
 
-trojan://telegram-id-directvpn@15.236.143.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 8 - FR - Trojan/TLS - 22223
+vmess://eyJhZGQiOiAiNDYuMjQ2LjEyNi4xNTQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYyZmQwNzg2LTEwNTktNGY2NC1kNTRlLTNmM2E1NjhjNmM2OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIvCfh7jwn4eqIDIgLSBTRSAtIFZNZXNzL1dTIC0gNDQzIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIvCfh7jwn4eqIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e48J+HqiJ9
 
-trojan://telegram-id-directvpn@3.122.176.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 9 - DE - Trojan/TLS - 22223
+vmess://eyJhZGQiOiAiMjEzLjE1Ni4xNDEuNTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmFtZSI6ICLwn4et8J+HsCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HrfCfh7AiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIyMzI0LCAicHMiOiAi8J+HrfCfh7AgMyAtIEhLIC0gVk1lc3MgLSAyMjMyNCIsICJzY3kiOiBudWxsLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiBudWxsLCAidGxzIjogIiIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsfQ==
 
-trojan://telegram-id-directvpn@63.182.182.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 10 - DE - Trojan/TLS - 22223
+vmess://eyJhZGQiOiAianAwMi5hMGEueHl6IiwgImFpZCI6ICIwIiwgImZwIjogImNocm9tZSIsICJob3N0IjogImpwMDIuYTBhLnh5eiIsICJpZCI6ICI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NjdHYxMy5tM3U4IiwgInBvcnQiOiAyNTY4NiwgInBzIjogIvCfh6/wn4e1IDQgLSBKUCAtIFZNZXNzL1dTL1VUTFMgLSAyNTY4NiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh6/wn4e1IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4ev8J+HtSJ9
 
