@@ -1,11 +1,57 @@
 {
-  "timestamp": "2026-05-29T10:57:02.048994+00:00",
+  "timestamp": "2026-05-29T16:58:20.301727+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 18,
+        "valid_configs": 2,
+        "unique_configs": 2,
+        "avg_response_time": 0.64,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.82,
+        "last_success": "2026-05-29T16:57:59.204034+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 0,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 2,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://t.me/s/Farah_VPN",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 20,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.26,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 79.61,
+        "last_success": "2026-05-29T16:58:01.494126+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 0,
+          "vless://": 0,
+          "vmess://": 3,
+          "ss://": 0,
+          "trojan://": 1,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://t.me/s/V2RayRootFree",
       "enabled": false,
       "metrics": {
-        "total_configs": 10,
+        "total_configs": 20,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -20,52 +66,6 @@
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
-          "tuic://": 0
-        }
-      }
-    },
-    {
-      "url": "https://t.me/s/Farah_VPN",
-      "enabled": true,
-      "metrics": {
-        "total_configs": 20,
-        "valid_configs": 3,
-        "unique_configs": 3,
-        "avg_response_time": 0.23,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 78.41,
-        "last_success": "2026-05-29T10:56:43.445841+00:00",
-        "protocol_counts": {
-          "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 3,
-          "ss://": 0,
-          "trojan://": 0,
-          "tuic://": 0
-        }
-      }
-    },
-    {
-      "url": "https://t.me/s/V2RayRootFree",
-      "enabled": true,
-      "metrics": {
-        "total_configs": 20,
-        "valid_configs": 1,
-        "unique_configs": 1,
-        "avg_response_time": 0.28,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 75.83,
-        "last_success": "2026-05-29T10:56:45.798064+00:00",
-        "protocol_counts": {
-          "wireguard://": 0,
-          "hysteria2://": 0,
-          "vless://": 0,
-          "vmess://": 0,
-          "ss://": 0,
-          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -97,19 +97,19 @@
       "url": "https://t.me/s/proxymtprotoir",
       "enabled": true,
       "metrics": {
-        "total_configs": 11,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.33,
+        "total_configs": 6,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.42,
-        "last_success": "2026-05-29T10:56:50.507002+00:00",
+        "overall_score": 95.35,
+        "last_success": "2026-05-29T16:58:08.605355+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 5,
-          "vmess://": 1,
+          "vless://": 4,
+          "vmess://": 0,
           "ss://": 1,
           "trojan://": 0,
           "tuic://": 0
@@ -121,20 +121,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 8,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.23,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.25,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.53,
-        "last_success": "2026-05-29T10:56:52.797975+00:00",
+        "overall_score": 99.62,
+        "last_success": "2026-05-29T16:58:10.889928+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 7,
+          "trojan://": 8,
           "tuic://": 0
         }
       }
