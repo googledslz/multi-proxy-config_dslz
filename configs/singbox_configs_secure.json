@@ -110,6 +110,7 @@
                 "🇳🇱 371 - NL - VLESS/TLS - 8443",
                 "🇭🇰 372 - HK - VLESS/TLS - 8443",
                 "🇬🇧 373 - GB - VLESS/TLS - 8443",
+                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -155,15 +156,22 @@
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
                 "🇳🇱 191 - NL - SS/AEAD - 8080",
+                "🇳🇱 192 - NL - SS/AEAD - 8080",
                 "🇳🇱 193 - NL - SS/AEAD - 8080",
                 "🇳🇱 194 - NL - SS/AEAD - 8080",
                 "🇳🇱 195 - NL - SS/AEAD - 8080",
+                "🇳🇱 196 - NL - SS/AEAD - 8080",
+                "🇳🇱 197 - NL - SS/AEAD - 8080",
+                "🇳🇱 198 - NL - SS/AEAD - 8080",
                 "🇳🇱 199 - NL - SS/AEAD - 8080",
+                "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
                 "🇬🇧 238 - GB - SS/AEAD - 443",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
+                "🇨🇭 686 - CH - SS/AEAD - 8119",
                 "🇬🇧 30 - GB - VMess - 22324",
+                "🇨🇿 33 - CZ - VMess - 180",
                 "🇺🇸 96 - US - VMess/WS/TLS - 2053",
                 "direct"
             ]
@@ -184,6 +192,7 @@
                 "🇳🇱 371 - NL - VLESS/TLS - 8443",
                 "🇭🇰 372 - HK - VLESS/TLS - 8443",
                 "🇬🇧 373 - GB - VLESS/TLS - 8443",
+                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -229,15 +238,22 @@
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
                 "🇳🇱 191 - NL - SS/AEAD - 8080",
+                "🇳🇱 192 - NL - SS/AEAD - 8080",
                 "🇳🇱 193 - NL - SS/AEAD - 8080",
                 "🇳🇱 194 - NL - SS/AEAD - 8080",
                 "🇳🇱 195 - NL - SS/AEAD - 8080",
+                "🇳🇱 196 - NL - SS/AEAD - 8080",
+                "🇳🇱 197 - NL - SS/AEAD - 8080",
+                "🇳🇱 198 - NL - SS/AEAD - 8080",
                 "🇳🇱 199 - NL - SS/AEAD - 8080",
+                "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
                 "🇬🇧 238 - GB - SS/AEAD - 443",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
+                "🇨🇭 686 - CH - SS/AEAD - 8119",
                 "🇬🇧 30 - GB - VMess - 22324",
+                "🇨🇿 33 - CZ - VMess - 180",
                 "🇺🇸 96 - US - VMess/WS/TLS - 2053"
             ],
             "url": "https://www.gstatic.com/generate_204",
@@ -412,6 +428,28 @@
                 "utls": {
                     "enabled": true,
                     "fingerprint": ""
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+            "server": "51.158.62.94",
+            "server_port": 443,
+            "uuid": "43488128-319e-f480-64ea-0acdc712e2a8",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.laposte.fr",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU",
+                    "short_id": "ad3c6641d540b4e1"
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             },
             "transport": {}
@@ -1114,6 +1152,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇳🇱 192 - NL - SS/AEAD - 8080",
+            "server": "82.38.31.184",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "k1dBOmOB4oqi7Ump37a1bQ"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇳🇱 193 - NL - SS/AEAD - 8080",
             "server": "82.38.31.186",
             "server_port": 8080,
@@ -1138,8 +1184,40 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇳🇱 196 - NL - SS/AEAD - 8080",
+            "server": "82.38.31.199",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "k1dBOmOB4oqi7Ump37a1bQ"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇳🇱 197 - NL - SS/AEAD - 8080",
+            "server": "82.38.31.205",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "k1dBOmOB4oqi7Ump37a1bQ"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇳🇱 198 - NL - SS/AEAD - 8080",
+            "server": "82.38.31.205",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "k1dBOmOB4oqi7Ump37a1bQ"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇳🇱 199 - NL - SS/AEAD - 8080",
             "server": "82.38.31.210",
+            "server_port": 8080,
+            "method": "chacha20-ietf-poly1305",
+            "password": "k1dBOmOB4oqi7Ump37a1bQ"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇳🇱 200 - NL - SS/AEAD - 8080",
+            "server": "82.38.31.214",
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "k1dBOmOB4oqi7Ump37a1bQ"
@@ -1177,11 +1255,32 @@
             "password": "RexnBgU7EV5ADxG"
         },
         {
+            "type": "shadowsocks",
+            "tag": "🇨🇭 686 - CH - SS/AEAD - 8119",
+            "server": "38.180.161.123",
+            "server_port": 8119,
+            "method": "aes-256-gcm",
+            "password": "cdBIDV42DCwnfIN"
+        },
+        {
             "type": "vmess",
             "tag": "🇬🇧 30 - GB - VMess - 22324",
             "server": "66.163.117.58",
             "server_port": 22324,
             "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇨🇿 33 - CZ - VMess - 180",
+            "server": "82.198.246.250",
+            "server_port": 180,
+            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
             "security": "auto",
             "alter_id": 0,
             "transport": {},
