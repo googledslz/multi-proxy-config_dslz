@@ -5,51 +5,31 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇭🇰 1 - HK - Trojan/TLS - 48697
+trojan://humanity@172.64.152.23:443?path=/assignment&;security=tls&;insecure=0&;host=www.creationlong.org&;type=ws&;allowInsecure=0&;sni=www.creationlong.org#🇺🇸 1 - US - Trojan/TLS - 443
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:45619?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#🇺🇸 2 - US - Trojan/TLS - 45619
+trojan://telegram-id-directvpn@13.37.27.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 2 - FR - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.90:45619?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#🇺🇸 3 - US - Trojan/TLS - 45619
+trojan://telegram-id-directvpn@15.236.237.21:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 3 - FR - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 4 - SG - Trojan/TLS - 48697
+trojan://telegram-id-directvpn@18.159.127.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 4 - DE - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 5 - SG - Trojan/TLS - 48697
+trojan://telegram-id-directvpn@3.120.68.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 5 - DE - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 6 - SG - Trojan/TLS - 48697
+trojan://telegram-id-directvpn@3.124.229.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 6 - DE - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 7 - SG - Trojan/TLS - 48697
+trojan://telegram-id-directvpn@35.181.123.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 7 - FR - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 8 - SG - Trojan/TLS - 48697
+trojan://telegram-id-directvpn@35.181.235.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 8 - FR - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 9 - SG - Trojan/TLS - 48697
+trojan://telegram-id-directvpn@51.102.66.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 9 - DE - Trojan/TLS - 22223
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 10 - SG - Trojan/TLS - 48697
+vmess://eyJhZGQiOiAiNTEuMTk1LjIzNS43MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTllMjhmNzgtYzMxYi00NjEzLTlkOWYtMWU2NzMyYTMxZjQ2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwNTIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiIsICJwcyI6ICLwn4es8J+HpyAxIC0gR0IgLSBWTWVzcyAtIDIwNTIiLCAibmFtZSI6ICLwn5GJ8J+GlEB2MnJheV9jb25maWdzX3Bvb2zwn5Oh8J+HrPCfh6fCru+4j1VuaXRlZCBLaW5nZG9twqnvuI9Fcml0aPCfhb/vuI9waW5nOjEzOW1zIn0=
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.96:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 11 - SG - Trojan/TLS - 48697
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJwcyI6ICLwn4ey8J+HviAyIC0gTVkgLSBWTWVzcy9XUyAtIDg2MTMiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAibmFtZSI6ICLwn4ey8J+HviBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HsvCfh74ifQ==
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 12 - SG - Trojan/TLS - 48697
+vmess://eyJhZGQiOiAiNTcuMTUxLjEwMC4yNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTUwZTg0MDAtZTI5Yi00MWQ0LWE3MTYtNDQ2NjU1NDQwMDAwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTAwODYsICJwcyI6ICLwn4e68J+HuCAzIC0gVVMgLSBWTWVzcyAtIDEwMDg2IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4e68J+HuCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HuvCfh7gifQ==
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 13 - SG - Trojan/TLS - 48697
+vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAicHMiOiAi8J+HuvCfh7ggNCAtIFVTIC0gVk1lc3MgLSA0NDMiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIvCfh7rwn4e4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e68J+HuCJ9
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:48697?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🇸🇬 14 - SG - Trojan/TLS - 48697
-
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=/?proxyip=ip.111000.de5.net%3A443&security=tls&alpn=http/1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#🇺🇸 15 - US - Trojan/WS/TLS - 443
-
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇺🇸 16 - US - Trojan/TLS/UTLS - 443
-
-trojan://telegram-id-directvpn@13.36.26.144:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 17 - FR - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@13.37.27.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 18 - FR - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@15.236.237.21:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 19 - FR - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@18.159.127.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 20 - DE - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@3.120.68.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 21 - DE - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@3.124.229.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 22 - DE - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@51.102.66.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 23 - DE - Trojan/TLS - 22223
-
-trojan://telegram-id-directvpn@51.44.143.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 24 - FR - Trojan/TLS - 22223
+vmess://eyJhZGQiOiAiZGU0Lm5pZWtvdGluLmRlIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImRlNC5uaWVrb3Rpbi5kZSIsICJpZCI6ICIzOGVkNWQ3MC00NDNlLTRhYzMtYjg3Ny1lYTIxZDk3ZmVkOTMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6IDgwLCAicHMiOiAi8J+HqfCfh6ogNSAtIERFIC0gVk1lc3MvV1MgLSA4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4ep8J+HqiBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HqfCfh6oifQ==
 
