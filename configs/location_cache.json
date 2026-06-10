@@ -1,49 +1,29 @@
 {
-  "18.196.209.211": [
+  "3.127.163.98": [
     "🇩🇪",
     "Germany"
   ],
-  "57.151.100.27": [
+  "67.220.85.46": [
     "🇺🇸",
     "United States of America"
   ],
-  "6654c734ccab8f440ff0825eb443dc7f.qos.onl": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "103.143.238.196": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "15.236.101.176": [
+  "193.160.130.245": [
     "🇫🇷",
     "France"
   ],
-  "0xs3ced9.zzzqwdbwq.workers.dev": [
-    "🇺🇸",
-    "United States of America"
+  "194.76.18.197": [
+    "🇰🇿",
+    "Kazakhstan"
   ],
-  "uk2.bw8848.org": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "usa2.bw8848.org": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "165.140.216.141": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "13.37.141.219": [
+  "51.44.146.0": [
     "🇫🇷",
     "France"
   ],
-  "35.181.90.22": [
-    "🇫🇷",
-    "France"
+  "61.245.11.60": [
+    "🇵🇭",
+    "Philippines"
   ],
-  "3.70.90.66": [
+  "167.233.99.208": [
     "🇩🇪",
     "Germany"
   ],
@@ -51,32 +31,56 @@
     "🇺🇸",
     "United States of America"
   ],
-  "52.29.67.193": [
+  "18.196.209.211": [
     "🇩🇪",
     "Germany"
   ],
-  "51.44.146.0": [
-    "🇫🇷",
-    "France"
-  ],
-  "172.238.19.11": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "8.6.112.6": [
+  "0xs3ced9.zzzqwdbwq.workers.dev": [
     "🇺🇸",
     "United States of America"
   ],
-  "63.177.223.7": [
-    "🇩🇪",
-    "Germany"
+  "static.cloudflareinsights.com": [
+    "🇺🇸",
+    "United States of America"
   ],
-  "usa1.bw8848.org": [
+  "45.79.8.17": [
     "🇺🇸",
     "United States of America"
   ],
   "153.121.73.175": [
     "🇯🇵",
     "Japan"
+  ],
+  "90081bb25c.node.tro.cac.cab": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "3.70.90.66": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "172.238.19.11": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "212.183.88.136": [
+    "🇦🇹",
+    "Austria"
+  ],
+  "82.198.246.37": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "35.181.90.22": [
+    "🇫🇷",
+    "France"
+  ],
+  "15.236.101.176": [
+    "🇫🇷",
+    "France"
+  ],
+  "13.37.141.219": [
+    "🇫🇷",
+    "France"
   ]
 }
