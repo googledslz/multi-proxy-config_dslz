@@ -1,25 +1,21 @@
 {
-  "52.47.70.99": [
-    "🇫🇷",
-    "France"
+  "104.18.12.149": [
+    "🇺🇸",
+    "United States of America"
   ],
   "13.38.194.86": [
     "🇫🇷",
     "France"
-  ],
-  "64.94.95.118": [
-    "🇦🇺",
-    "Australia"
-  ],
-  "104.19.229.21": [
-    "🇺🇸",
-    "United States of America"
   ],
   "52.57.0.56": [
     "🇩🇪",
     "Germany"
   ],
   "52.59.53.96": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "172.236.220.10": [
     "🇩🇪",
     "Germany"
   ],
@@ -31,20 +27,32 @@
     "🇫🇷",
     "France"
   ],
-  "3.127.163.98": [
+  "www.speedtest.net": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "18.159.245.110": [
     "🇩🇪",
     "Germany"
   ],
-  "43.169.18.179": [
-    "🇸🇬",
-    "Singapore"
+  "52.47.70.99": [
+    "🇫🇷",
+    "France"
+  ],
+  "63.184.218.68": [
+    "🇩🇪",
+    "Germany"
   ],
   "0xs3ced9.zzzqwdbwq.workers.dev": [
     "🇺🇸",
     "United States of America"
   ],
-  "3.76.90.234": [
-    "🇩🇪",
-    "Germany"
+  "43.198.203.3": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "www.calmlunch.com": [
+    "🇺🇸",
+    "United States of America"
   ]
 }
