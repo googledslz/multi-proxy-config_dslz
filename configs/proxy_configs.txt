@@ -5,31 +5,31 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://SoftNetConnect@167.233.105.87:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sKoo23dE1a6b_G1-AimeDX_1mw4ByhGti6a9PxK1xWw&sid=7c&spx=/#🇩🇪 1 - DE - Trojan/TLS/UTLS - 2087
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#🇺🇸 1 - US - Trojan/WS/TLS - 443
 
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=/assignment&sni=www.creationlong.org&type=ws#🇺🇸 2 - US - Trojan/WS/TLS - 443
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇸🇬 2 - SG - Trojan/WS/TLS - 443
 
-trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:2052?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 3 - US - Trojan/WS/TLS - 2052
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇦🇺 3 - AU - Trojan/TLS - 57142
 
 trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:2052?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 4 - US - Trojan/WS/TLS - 2052
 
-trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8080?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 5 - US - Trojan/WS/TLS - 8080
+trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:2052?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 5 - US - Trojan/WS/TLS - 2052
 
 trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8080?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 6 - US - Trojan/WS/TLS - 8080
 
-trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:80?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 7 - US - Trojan/WS/TLS - 80
+trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8080?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 7 - US - Trojan/WS/TLS - 8080
 
 trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:80?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 8 - US - Trojan/WS/TLS - 80
 
-trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8443?security=tls&sni=0XS3Ced9.zZzqwdBWq.wOrKErS.DEv&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 9 - US - Trojan/WS/TLS/UTLS - 8443
+trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:80?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 9 - US - Trojan/WS/TLS - 80
 
 trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8443?security=tls&sni=0XS3Ced9.zZzqwdBWq.wOrKErS.DEv&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 10 - US - Trojan/WS/TLS/UTLS - 8443
 
-trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8880?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 11 - US - Trojan/WS/TLS - 8880
+trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8443?security=tls&sni=0XS3Ced9.zZzqwdBWq.wOrKErS.DEv&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 11 - US - Trojan/WS/TLS/UTLS - 8443
 
 trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8880?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 12 - US - Trojan/WS/TLS - 8880
 
-trojan://rXyShM8Jni%2B5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&headerType=none&type=tcp&sni=45.79.8.17#🇺🇸 13 - US - Trojan/TLS - 443
+trojan://letiranbreath-x%40%5Ef@0xs3ced9.zzzqwdbwq.workers.dev:8880?security=none&type=ws&host=0xs3ced9.zzzqwdbwq.workers.dev&path=/eyJqdW5rIjoiYmx1NXI3dml6NjB3NW9nZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwNC4yOC4yNTUuNzQiXX0=?ed=2560#🇺🇸 13 - US - Trojan/WS/TLS - 8880
 
 trojan://telegram-id-directvpn@13.37.194.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 14 - FR - Trojan/TLS - 22223
 
@@ -46,16 +46,4 @@ trojan://telegram-id-directvpn@52.47.70.99:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@52.57.0.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 20 - DE - Trojan/TLS - 22223
 
 trojan://telegram-id-directvpn@52.59.53.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 21 - DE - Trojan/TLS - 22223
-
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0BQcm94eVZQTjExIiwgInBvcnQiOiAxODAsICJwcyI6ICLwn4eo8J+HvyAxIC0gQ1ogLSBWTWVzcyAtIDE4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI2IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+HuvCfh7ggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7rwn4e4In0=
-
-vmess://eyJhZGQiOiAiMTI5LjE0Ni43Ny4yNDgiLCAiYWlkIjogMCwgImlkIjogImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAicG9ydCI6IDM5NDk1LCAicHMiOiAi8J+HuvCfh7ggMiAtIFVTIC0gVk1lc3MvV1MgLSAzOTQ5NSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIvCfh7rwn4e4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e68J+HuCJ9
-
-vmess://eyJhZGQiOiAiMTU1LjI1NC4xMjYuMjQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiBudWxsLCAiaWQiOiAiYTAzMDg0MmEtZDI5YS00ZWE5LWE3NzYtMTRmYzRiOWUxMDJkIiwgIm5hbWUiOiAi8J+HuPCfh6wgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7jwn4esIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA2MDA0LCAicHMiOiAi8J+HuvCfh7ggMyAtIFVTIC0gVk1lc3MvVVRMUyAtIDYwMDQiLCAic2N5IjogImF1dG8iLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-
-vmess://eyJhZGQiOiAiMTU4LjUxLjEyMS42MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJpYnVzLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAi8J+HqPCfh6YgNCAtIENBIC0gVk1lc3MvV1MvVExTIC0gNDQzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAic2VyaWJ1cy5vcmciLCAibmFtZSI6ICLwn4eo8J+HpiBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HqPCfh6YifQ==
-
-vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIvCfh6/wn4e1IDUgLSBKUCAtIFZNZXNzL1dTIC0gODAiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAibmFtZSI6ICLwn4ev8J+HtSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+Hr/Cfh7UifQ==
-
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xOTgiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmFtZSI6ICLwn4eo8J+HpiBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HqPCfh6YiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MDAwLCAicHMiOiAi8J+HqPCfh6YgNiAtIENBIC0gVk1lc3MgLSAxODAwMCIsICJzY3kiOiBudWxsLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
