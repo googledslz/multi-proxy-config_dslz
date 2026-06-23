@@ -105,11 +105,7 @@
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇬🇧 368 - GB - VLESS/TLS - 8443",
-                "🇬🇧 370 - GB - VLESS/TLS - 8443",
-                "🇳🇱 371 - NL - VLESS/TLS - 8443",
-                "🇭🇰 372 - HK - VLESS/TLS - 8443",
-                "🇬🇧 373 - GB - VLESS/TLS - 8443",
+                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -162,6 +158,7 @@
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇨🇭 686 - CH - SS/AEAD - 8119",
                 "🇬🇧 30 - GB - VMess - 22324",
+                "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
                 "direct"
             ]
@@ -177,11 +174,7 @@
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇬🇧 368 - GB - VLESS/TLS - 8443",
-                "🇬🇧 370 - GB - VLESS/TLS - 8443",
-                "🇳🇱 371 - NL - VLESS/TLS - 8443",
-                "🇭🇰 372 - HK - VLESS/TLS - 8443",
-                "🇬🇧 373 - GB - VLESS/TLS - 8443",
+                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -234,6 +227,7 @@
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇨🇭 686 - CH - SS/AEAD - 8119",
                 "🇬🇧 30 - GB - VMess - 22324",
+                "🇹🇷 31 - TR - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180"
             ],
             "url": "https://www.gstatic.com/generate_204",
@@ -308,106 +302,22 @@
         },
         {
             "type": "vless",
-            "tag": "🇬🇧 368 - GB - VLESS/TLS - 8443",
-            "server": "152.233.28.198",
-            "server_port": 8443,
-            "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-            "flow": "",
+            "tag": "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+            "server": "51.158.62.94",
+            "server_port": 443,
+            "uuid": "43488128-319e-f480-64ea-0acdc712e2a8",
+            "flow": "xtls-rprx-vision",
             "tls": {
                 "enabled": true,
-                "server_name": "uk1.fromblancwithlove.com",
-                "insecure": false,
-                "alpn": [
-                    "h2"
-                ],
+                "server_name": "www.laposte.fr",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU",
+                    "short_id": "ad3c6641d540b4e1"
+                },
                 "utls": {
                     "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇬🇧 370 - GB - VLESS/TLS - 8443",
-            "server": "152.233.28.198",
-            "server_port": 8443,
-            "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "uk1.fromblancwithlove.com",
-                "insecure": false,
-                "alpn": [
-                    "h2"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇳🇱 371 - NL - VLESS/TLS - 8443",
-            "server": "195.181.173.199",
-            "server_port": 8443,
-            "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "ams1.fromblancwithlove.com",
-                "insecure": false,
-                "alpn": [
-                    "h2"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇭🇰 372 - HK - VLESS/TLS - 8443",
-            "server": "84.17.37.19",
-            "server_port": 8443,
-            "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "hkg1.fromblancwithlove.com",
-                "insecure": false,
-                "alpn": [
-                    "h2"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇬🇧 373 - GB - VLESS/TLS - 8443",
-            "server": "uk1.fromblancwithlove.com",
-            "server_port": 8443,
-            "uuid": "394f6981-a782-4779-9a85-e6cf22935d93",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "uk1.fromblancwithlove.com",
-                "insecure": false,
-                "alpn": [
-                    "h2",
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
+                    "fingerprint": "chrome"
                 }
             },
             "transport": {}
@@ -1164,6 +1074,19 @@
             "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
             "security": "auto",
             "alter_id": 0,
+            "transport": {},
+            "tls": {
+                "enabled": false
+            }
+        },
+        {
+            "type": "vmess",
+            "tag": "🇹🇷 31 - TR - VMess - 22324",
+            "server": "5.188.190.252",
+            "server_port": 22324,
+            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "security": "auto",
+            "alter_id": 1,
             "transport": {},
             "tls": {
                 "enabled": false
