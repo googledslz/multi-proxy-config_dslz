@@ -102,7 +102,10 @@
             "tag": "🌐 Anonymous Multi",
             "outbounds": [
                 "👽 Best Ping 🚀",
+                "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+                "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -160,7 +163,10 @@
             "type": "urltest",
             "tag": "👽 Best Ping 🚀",
             "outbounds": [
+                "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+                "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
+                "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -214,6 +220,50 @@
         },
         {
             "type": "vless",
+            "tag": "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+            "server": "159.89.87.21",
+            "server_port": 28190,
+            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "aws.amazon.com",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
+                    "short_id": ""
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
+            "server": "159.89.87.21",
+            "server_port": 28190,
+            "uuid": "14c80e0e-f7ce-4991-94fc-99a1db4a9b1e",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "aws.amazon.com",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno",
+                    "short_id": ""
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
             "tag": "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
             "server": "47.251.25.74",
             "server_port": 443,
@@ -226,6 +276,28 @@
                     "enabled": true,
                     "public_key": "H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8",
                     "short_id": ""
+                },
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {}
+        },
+        {
+            "type": "vless",
+            "tag": "🇫🇷 483 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443",
+            "server": "51.158.62.94",
+            "server_port": 443,
+            "uuid": "43488128-319e-f480-64ea-0acdc712e2a8",
+            "flow": "xtls-rprx-vision",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.laposte.fr",
+                "reality": {
+                    "enabled": true,
+                    "public_key": "nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU",
+                    "short_id": "ad3c6641d540b4e1"
                 },
                 "utls": {
                     "enabled": true,
