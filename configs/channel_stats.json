@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T06:34:43.443862+00:00",
+  "timestamp": "2026-07-04T09:37:17.417304+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -29,20 +29,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 2,
-        "unique_configs": 2,
-        "avg_response_time": 0.2,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.2,
-        "last_success": "2026-07-04T06:34:25.009766+00:00",
+        "overall_score": 78.39,
+        "last_success": "2026-07-04T09:36:58.592954+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 0,
+          "vmess://": 2,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -52,20 +52,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 4,
-        "unique_configs": 4,
-        "avg_response_time": 0.25,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.63,
-        "last_success": "2026-07-04T06:34:27.327200+00:00",
+        "overall_score": 82.07,
+        "last_success": "2026-07-04T09:37:00.946138+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 1,
           "ss://": 0,
-          "trojan://": 3,
+          "trojan://": 5,
           "tuic://": 0
         }
       }
@@ -123,11 +123,11 @@
         "total_configs": 8,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.7,
-        "last_success": "2026-07-04T06:34:34.333891+00:00",
+        "overall_score": 99.64,
+        "last_success": "2026-07-04T09:37:08.051036+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
