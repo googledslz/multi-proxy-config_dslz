@@ -133,8 +133,6 @@
                 "🇫🇮 101 - FI - SS/AEAD - 28687",
                 "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
-                "🇺🇸 186 - US - SS/AEAD - 443",
-                "🇺🇸 187 - US - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
                 "🇳🇱 191 - NL - SS/AEAD - 8080",
@@ -195,8 +193,6 @@
                 "🇫🇮 101 - FI - SS/AEAD - 28687",
                 "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
-                "🇺🇸 186 - US - SS/AEAD - 443",
-                "🇺🇸 187 - US - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
                 "🇳🇱 191 - NL - SS/AEAD - 8080",
@@ -859,22 +855,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "aduB9HGxQHjA2SBMRjkHX6"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 186 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇺🇸 187 - US - SS/AEAD - 443",
-            "server": "tinkered-pennies-puppies.freesocks.work",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "hbGrpfvNrJsUmKmPbR3iY2"
         },
         {
             "type": "shadowsocks",
