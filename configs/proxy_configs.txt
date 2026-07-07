@@ -37,9 +37,11 @@ trojan://telegram-id-directvpn@13.39.139.191:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@18.194.124.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 16 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@3.66.180.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 17 - DE - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@18.198.191.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 17 - DE - Trojan/TLS - 22223
 
-trojan://telegram-id-directvpn@51.102.218.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 18 - DE - Trojan/TLS - 22223
+trojan://telegram-id-directvpn@3.66.180.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 18 - DE - Trojan/TLS - 22223
+
+trojan://telegram-id-directvpn@51.102.218.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 19 - DE - Trojan/TLS - 22223
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqfCfh6ogMSAtIERFIC0gVk1lc3MvVExTL1VUTFMgLSAyMDUzIiwgImFkZCI6ICJub2RlLWRlLmNvbm5lY3RzdWl0ZS5vcmciLCAicG9ydCI6IDIwNTMsICJpZCI6ICIzZDM1OGVhNS00NjViLTQ2YWMtYTJkZi05OGNhMTU1NTE5NGYiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJmcCI6ICJjaHJvbWUiLCAiYWxwbiI6ICJoMixodHRwLzEuMSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+HqfCfh6ogSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh6nwn4eqIn0=
 
