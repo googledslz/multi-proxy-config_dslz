@@ -1,93 +1,37 @@
 {
-  "57.129.121.230": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "146.56.112.110": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "104.16.72.2": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.21.40.34": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "63.176.232.190": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "n1747624274.4u9ma.icu": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "85.90.217.42": [
-    "🇪🇸",
-    "Spain"
-  ],
-  "phoenix0202.zgjok.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "51.45.36.122": [
-    "🇫🇷",
-    "France"
-  ],
-  "216.106.183.35": [
-    "🇺🇸",
-    "United States of America"
-  ],
   "38.60.252.118": [
     "🇻🇳",
     "Viet Nam"
+  ],
+  "www.calmloud.com": [
+    "🇺🇸",
+    "United States of America"
   ],
   "45.130.125.210": [
     "🇸🇨",
     "Seychelles"
   ],
-  "104.16.72.70": [
+  "85.90.217.42": [
+    "🇪🇸",
+    "Spain"
+  ],
+  "3.79.136.109": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "149.88.23.202": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "149.104.104.58": [
+    "🇵🇰",
+    "Pakistan"
+  ],
+  "162.159.17.189": [
     "🇺🇸",
     "United States of America"
-  ],
-  "18.198.0.48": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "185.137.157.151": [
-    "🇩🇪",
-    "Germany"
   ],
   "104.16.174.12": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "5.188.190.252": [
-    "🇹🇷",
-    "Turkiye"
-  ],
-  "38.54.64.247": [
-    "🇿🇦",
-    "South Africa"
-  ],
-  "irandesigner.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "66.163.117.58": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "51.44.49.6": [
-    "🇫🇷",
-    "France"
-  ],
-  "13.37.122.139": [
-    "🇫🇷",
-    "France"
-  ],
-  "129.146.77.248": [
     "🇺🇸",
     "United States of America"
   ],
@@ -95,47 +39,35 @@
     "🇺🇸",
     "United States of America"
   ],
-  "82.198.246.97": [
-    "🇨🇿",
-    "Czechia"
-  ],
-  "3.79.136.109": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "104.18.32.47": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "129.146.143.80": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "3.69.137.151": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "82.198.246.37": [
-    "🇨🇿",
-    "Czechia"
-  ],
-  "140.238.2.250": [
-    "🇰🇷",
-    "Korea (the Republic of)"
-  ],
-  "103.125.216.68": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "57.151.100.27": [
-    "🇺🇸",
-    "United States of America"
+  "jpbgp.netvigor.cc": [
+    "🇭🇰",
+    "Hong Kong"
   ],
   "104.16.72.101": [
     "🇺🇸",
     "United States of America"
   ],
-  "172.64.152.23": [
+  "84.17.41.2": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "23.162.200.198": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "152.67.218.38": [
+    "🇰🇷",
+    "Korea (the Republic of)"
+  ],
+  "13.37.122.139": [
+    "🇫🇷",
+    "France"
+  ],
+  "35.181.242.89": [
+    "🇫🇷",
+    "France"
+  ],
+  "104.18.153.10": [
     "🇺🇸",
     "United States of America"
   ],
@@ -143,32 +75,64 @@
     "🇺🇸",
     "United States of America"
   ],
-  "35.181.242.89": [
+  "82.198.246.97": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "172.64.152.23": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "185.137.157.151": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "51.44.49.6": [
     "🇫🇷",
     "France"
   ],
-  "47.250.149.51": [
-    "🇲🇾",
-    "Malaysia"
+  "n1747624274.4u9ma.icu": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "162.159.17.189": [
+  "51.45.36.122": [
+    "🇫🇷",
+    "France"
+  ],
+  "104.21.40.34": [
     "🇺🇸",
     "United States of America"
   ],
-  "67.220.85.46": [
+  "63.184.219.224": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "hl112.cowjump.site": [
     "🇺🇸",
     "United States of America"
   ],
-  "45.130.125.126": [
-    "🇸🇨",
-    "Seychelles"
-  ],
-  "www.calmloud.com": [
+  "38.91.107.49": [
     "🇺🇸",
     "United States of America"
   ],
-  "23.162.200.198": [
-    "🇨🇦",
-    "Canada"
+  "140.83.51.161": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "3.69.137.151": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "103.125.216.68": [
+    "🇯🇵",
+    "Japan"
+  ],
+  "18.198.0.48": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "38.60.220.65": [
+    "🇰🇷",
+    "Korea (the Republic of)"
   ]
 }
