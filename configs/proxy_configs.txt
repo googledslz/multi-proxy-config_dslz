@@ -7,7 +7,7 @@
 
 trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-satyr.rooster465.autos#🇰🇷 1 - KR - Trojan/TLS - 443
 
-trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls&sni=smiling-fowl.rooster465.autos#🇯🇵 2 - JP - Trojan/TLS - 443
+trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls&sni=smiling-fowl.rooster465.autos#🏳️ 2 - XX - Trojan/TLS - 443
 
 trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#🇸🇬 3 - SG - Trojan/TLS - 443
 
