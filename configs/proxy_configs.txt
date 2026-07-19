@@ -9,7 +9,7 @@ trojan://CF68213490@awake-satyr.rooster465.autos:443?security=tls&sni=awake-saty
 
 trojan://CF68213490@smiling-fowl.rooster465.autos:443?security=tls&sni=smiling-fowl.rooster465.autos#🏳️ 2 - XX - Trojan/TLS - 443
 
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#🇸🇬 3 - SG - Trojan/TLS - 443
+trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#🏳️ 3 - XX - Trojan/TLS - 443
 
 trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#🇱🇺 4 - LU - Trojan/TLS - 443
 
