@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T15:30:28.065377+00:00",
+  "timestamp": "2026-07-20T20:45:53.261389+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -120,7 +120,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 7,
+        "total_configs": 8,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
