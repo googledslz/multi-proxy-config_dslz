@@ -148,6 +148,7 @@
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
+                "🇬🇧 238 - GB - SS/AEAD - 443",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
@@ -209,6 +210,7 @@
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
+                "🇬🇧 238 - GB - SS/AEAD - 443",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇹🇷 31 - TR - VMess - 22324",
@@ -977,6 +979,14 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇬🇧 238 - GB - SS/AEAD - 443",
+            "server": "141.98.101.182",
+            "server_port": 443,
+            "method": "aes-128-gcm",
+            "password": "shadowsocks"
         },
         {
             "type": "shadowsocks",
