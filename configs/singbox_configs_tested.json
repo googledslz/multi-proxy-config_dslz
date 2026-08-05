@@ -150,7 +150,7 @@
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇬🇧 30 - GB - VMess - 22324",
-                "🇹🇷 31 - TR - VMess - 22324",
+                "🇨🇿 33 - CZ - VMess - 180",
                 "direct"
             ]
         },
@@ -210,7 +210,7 @@
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
                 "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇬🇧 30 - GB - VMess - 22324",
-                "🇹🇷 31 - TR - VMess - 22324"
+                "🇨🇿 33 - CZ - VMess - 180"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -999,12 +999,12 @@
         },
         {
             "type": "vmess",
-            "tag": "🇹🇷 31 - TR - VMess - 22324",
-            "server": "5.188.190.252",
-            "server_port": 22324,
-            "uuid": "04621bae-ab36-11ec-b909-0242ac120002",
+            "tag": "🇨🇿 33 - CZ - VMess - 180",
+            "server": "82.198.246.250",
+            "server_port": 180,
+            "uuid": "d13fc2f5-3e05-4795-81eb-44143a09e552",
             "security": "auto",
-            "alter_id": 1,
+            "alter_id": 0,
             "transport": {},
             "tls": {
                 "enabled": false
