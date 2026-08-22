@@ -105,7 +105,6 @@
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇷🇺 239 - RU - VLESS/WS/TLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -131,7 +130,6 @@
                 "🇳🇱 528 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 535 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 536 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇧🇿 633 - BZ - VLESS/WS - 80",
                 "🇹🇼 36 - TW - SS/AEAD - 50099",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
@@ -147,7 +145,6 @@
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
-                "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180",
                 "direct"
@@ -164,7 +161,6 @@
                 "🇺🇸 135 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 136 - US - VLESS/REALITY/PBK/VISION/UTLS - 28190",
                 "🇺🇸 183 - US - VLESS/REALITY/PBK/VISION/UTLS - 443",
-                "🇷🇺 239 - RU - VLESS/WS/TLS - 443",
                 "🇺🇸 506 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 507 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇺🇸 508 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
@@ -190,7 +186,6 @@
                 "🇳🇱 528 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 535 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 536 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
-                "🇧🇿 633 - BZ - VLESS/WS - 80",
                 "🇹🇼 36 - TW - SS/AEAD - 50099",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
@@ -206,7 +201,6 @@
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 219 - NL - SS/AEAD - 8080",
                 "🇳🇱 220 - NL - SS/AEAD - 8080",
-                "🇰🇷 684 - KR - SS/AEAD - 7001",
                 "🇬🇧 30 - GB - VMess - 22324",
                 "🇨🇿 33 - CZ - VMess - 180"
             ],
@@ -279,33 +273,6 @@
                 }
             },
             "transport": {}
-        },
-        {
-            "type": "vless",
-            "tag": "🇷🇺 239 - RU - VLESS/WS/TLS - 443",
-            "server": "45.67.215.233",
-            "server_port": 443,
-            "uuid": "20e295db-a6af-4006-bfd6-91453f169968",
-            "flow": "",
-            "tls": {
-                "enabled": true,
-                "server_name": "057.ElecTRocElLco-Cf-057.wOrKeRs.dEv",
-                "insecure": false,
-                "alpn": [
-                    "http/1.1"
-                ],
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": ""
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=",
-                "headers": {
-                    "Host": "057.electrocellco-cf-057.workers.dev"
-                }
-            }
         },
         {
             "type": "vless",
@@ -858,24 +825,6 @@
             "transport": {}
         },
         {
-            "type": "vless",
-            "tag": "🇧🇿 633 - BZ - VLESS/WS - 80",
-            "server": "45.131.4.192",
-            "server_port": 80,
-            "uuid": "5f4845b4-11dc-41d6-9508-4ff6a02e36c1",
-            "flow": "",
-            "tls": {
-                "enabled": false
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": "silent-paper-fa57.fipiyag989.workers.dev"
-                }
-            }
-        },
-        {
             "type": "shadowsocks",
             "tag": "🇹🇼 36 - TW - SS/AEAD - 50099",
             "server": "r3mrcg00129437x.cybervena.com",
@@ -994,14 +943,6 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇰🇷 684 - KR - SS/AEAD - 7001",
-            "server": "141.164.45.187",
-            "server_port": 7001,
-            "method": "aes-256-gcm",
-            "password": "RexnBgU7EV5ADxG"
         },
         {
             "type": "vmess",
