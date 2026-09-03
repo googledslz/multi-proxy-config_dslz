@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-03T12:12:55.195174+00:00",
+  "timestamp": "2026-09-03T17:08:11.026534+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -28,21 +28,21 @@
       "url": "https://t.me/s/Farah_VPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 198,
-        "valid_configs": 43,
-        "unique_configs": 43,
-        "avg_response_time": 0.33,
+        "total_configs": 200,
+        "valid_configs": 36,
+        "unique_configs": 36,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.93,
-        "last_success": "2026-09-03T12:12:36.645602+00:00",
+        "overall_score": 79.06,
+        "last_success": "2026-09-03T17:07:52.623668+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 39,
+          "vmess://": 31,
           "ss://": 0,
-          "trojan://": 4,
+          "trojan://": 5,
           "tuic://": 0
         }
       }
@@ -100,11 +100,11 @@
         "total_configs": 31,
         "valid_configs": 28,
         "unique_configs": 28,
-        "avg_response_time": 0.29,
+        "avg_response_time": 0.25,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.15,
-        "last_success": "2026-09-03T12:12:43.573707+00:00",
+        "overall_score": 97.21,
+        "last_success": "2026-09-03T17:07:59.705198+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
