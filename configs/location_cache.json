@@ -7,9 +7,21 @@
     "🇫🇷",
     "France"
   ],
+  "188.114.96.3": [
+    "🇺🇸",
+    "United States of America"
+  ],
   "213.176.77.138": [
     "🇩🇪",
     "Germany"
+  ],
+  "151.101.56.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "20.234.82.250": [
+    "🇮🇪",
+    "Ireland"
   ],
   "45.136.126.70": [
     "🇫🇮",
@@ -19,47 +31,11 @@
     "🇧🇬",
     "Bulgaria"
   ],
-  "95.133.247.18": [
-    "🇫🇷",
-    "France"
-  ],
-  "188.137.242.143": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "195.133.73.65": [
+  "185.154.193.137": [
     "🇷🇺",
     "Russian Federation"
   ],
-  "5.75.207.73": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "151.101.56.7": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "131.123.34.42": [
-    "🇨🇭",
-    "Switzerland"
-  ],
-  "151.101.56.6": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "89.35.14.30": [
-    "🇲🇩",
-    "Moldova (the Republic of)"
-  ],
-  "83.168.71.216": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "199.232.78.160": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "167.82.76.27": [
+  "188.137.242.143": [
     "🇺🇸",
     "United States of America"
   ],
@@ -67,12 +43,80 @@
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "tgfree.rush-server.com": [
-    "🇷🇺",
-    "Russian Federation"
+  "131.123.34.42": [
+    "🇨🇭",
+    "Switzerland"
+  ],
+  "vnovavpnfree1.up.railway.app": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "167.82.76.27": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "8.47.69.0": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "83.168.71.216": [
+    "🇵🇱",
+    "Poland"
   ],
   "194.110.207.48": [
     "🇳🇴",
     "Norway"
+  ],
+  "199.232.78.160": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "188.42.145.180": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "5.75.207.73": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "tgfree.rush-server.com": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "195.133.73.65": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "shop.theawesomenpl.ru": [
+    "🇫🇷",
+    "France"
+  ],
+  "31.76.113.202": [
+    "🇮🇹",
+    "Italy"
+  ],
+  "151.101.56.7": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "69.46.46.114": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "132.243.224.203": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "89.35.14.30": [
+    "🇲🇩",
+    "Moldova (the Republic of)"
+  ],
+  "95.133.247.18": [
+    "🇫🇷",
+    "France"
+  ],
+  "land.zavqeron.ir": [
+    "🇺🇸",
+    "United States of America"
   ]
 }
