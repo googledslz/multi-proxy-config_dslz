@@ -1,69 +1,5 @@
 {
-  "45.136.126.70": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "83.168.71.216": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "neth9.lunariai.ru": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "195.133.73.65": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "89.35.14.30": [
-    "🇲🇩",
-    "Moldova (the Republic of)"
-  ],
-  "194.110.207.48": [
-    "🇳🇴",
-    "Norway"
-  ],
-  "151.101.56.6": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "tgfree.rush-server.com": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
   "k2.cloud--vpn.site": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "167.82.76.27": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "151.101.56.7": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "188.137.242.143": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "45.9.156.42": [
-    "🇧🇬",
-    "Bulgaria"
-  ],
-  "213.176.77.138": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "131.123.34.42": [
-    "🇨🇭",
-    "Switzerland"
-  ],
-  "95.133.247.18": [
-    "🇫🇷",
-    "France"
-  ],
-  "199.232.78.160": [
     "🇺🇸",
     "United States of America"
   ],
@@ -71,8 +7,72 @@
     "🇫🇷",
     "France"
   ],
+  "213.176.77.138": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "45.136.126.70": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "45.9.156.42": [
+    "🇧🇬",
+    "Bulgaria"
+  ],
+  "95.133.247.18": [
+    "🇫🇷",
+    "France"
+  ],
+  "188.137.242.143": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "195.133.73.65": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
   "5.75.207.73": [
     "🇩🇪",
     "Germany"
+  ],
+  "151.101.56.7": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "131.123.34.42": [
+    "🇨🇭",
+    "Switzerland"
+  ],
+  "151.101.56.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "89.35.14.30": [
+    "🇲🇩",
+    "Moldova (the Republic of)"
+  ],
+  "83.168.71.216": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "199.232.78.160": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "167.82.76.27": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "neth9.lunariai.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "tgfree.rush-server.com": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "194.110.207.48": [
+    "🇳🇴",
+    "Norway"
   ]
 }
