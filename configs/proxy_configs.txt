@@ -13,13 +13,29 @@ vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.61:443?security=reality&en
 
 vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&fp=firefox&type=grpc&serviceName=shiforgrpc&sni=cloudflare.com&sid=b4e3b0b55b8dc75b#🇳🇱 4 - NL - VLESS/GRPC/REALITY/PBK/SID/UTLS - 8443
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&spx=/HesarWeb&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#🇧🇬 5 - BG - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443
+vless://11f21602-47aa-42e2-9149-69120f2e6df6@45.91.138.179:443?security=reality&encryption=none&pbk=36sTeaLdaAjQQxxzh492XihoPi2YxmttQyncmLuxYHE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us05.shifor01.life&sid=169fc2df88419465#🇺🇸 5 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#🇲🇩 6 - MD - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&spx=/HesarWeb&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#🇧🇬 6 - BG - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443
 
-vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#🇯🇵 7 - JP - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#🇲🇩 7 - MD - VLESS/GRPC/REALITY/PBK/SID/UTLS - 443
 
-vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.242.69:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dk1.hat.onl&sid=76132b3b39704c44#🇩🇰 8 - DK - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://588456a5-f724-46a7-a08b-5d336d9f8f56@carina.yokkastars.com:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#🇫🇷 8 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
 
-vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.101.16:443?security=reality&encryption=none&pbk=nuqkgfdRafYszLg1SzFgXlQkTu0OdV4tes4WTjjcpkI&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mx42.hat.onl&sid=414f66403b9f0673#🇩🇪 9 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@103.227.84.162:443?security=reality&encryption=none&pbk=OEp5OMlE08EaAunays3K7Lbd0JWKOQKZ8HXiytog4EQ&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de3.hat.onl&sid=e8d6c07aa30b81fa#🇯🇵 9 - JP - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@144.31.242.69:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dk1.hat.onl&sid=76132b3b39704c44#🇩🇰 10 - DK - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.101.16:443?security=reality&encryption=none&pbk=nuqkgfdRafYszLg1SzFgXlQkTu0OdV4tes4WTjjcpkI&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mx42.hat.onl&sid=414f66403b9f0673#🇩🇪 11 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+
+vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.21:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=bodyshine.help&type=ws&allowInsecure=0&sni=bodyshine.help#🇺🇸 12 - US - VLESS/WS/TLS - 443
+
+vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.21:443?path=/raccoonwsvless&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=playlux.homes&type=ws&allowInsecure=0&sni=playlux.homes#🇺🇸 13 - US - VLESS/WS/TLS - 443
+
+vless://f2381f29-c724-4491-95a3-a17bd6eea47f@46.28.69.53:443?security=reality&encryption=none&pbk=MldGYzZegwydL76HI_beMlXgD-4ZyCZjIX0sBVPjphY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de2.willo.help&sid=abcd1234#🇩🇪 14 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#🇳🇱 1 - NL - Trojan/WS/TLS/UTLS - 443
+
+trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0#🇺🇸 2 - US - Trojan/WS/TLS - 443
+
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmFDdHBlTWlldEdzSlk1MGg2akRXNnc9PQ@dopr.rehan-iogsar.ir:4680#🇩🇪 1 - DE - SS/2022/BLAKE3 - 4680
 
