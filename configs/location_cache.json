@@ -1,13 +1,17 @@
 {
-  "195.189.97.12": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "prime.betust.net": [
+  "app4.betust.net": [
     "🇷🇺",
     "Russian Federation"
   ],
-  "45.205.0.6": [
+  "api.betust.net": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "pl.bubahero.com": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "167.82.76.7": [
     "🇺🇸",
     "United States of America"
   ],
@@ -15,32 +19,28 @@
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "167.82.76.7": [
-    "🇺🇸",
-    "United States of America"
+  "game.betust.net": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "prime.betust.net": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "195.189.97.12": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
   "84.32.186.198": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "api.betust.net": [
-    "🇷🇺",
-    "Russian Federation"
+  "45.205.0.6": [
+    "🇺🇸",
+    "United States of America"
   ],
   "tgfree.rush-server.com": [
     "🇷🇺",
     "Russian Federation"
-  ],
-  "game.betust.net": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "app4.betust.net": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "pl.bubahero.com": [
-    "🇵🇱",
-    "Poland"
   ]
 }
