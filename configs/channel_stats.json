@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-17T08:50:28.726967+00:00",
+  "timestamp": "2026-09-17T12:43:41.039088+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 80.08,
-        "last_success": "2026-09-17T08:50:10.341540+00:00",
+        "last_success": "2026-09-17T12:43:22.785493+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -97,18 +97,18 @@
       "url": "https://t.me/s/proxymtprotoir",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.25,
+        "total_configs": 34,
+        "valid_configs": 27,
+        "unique_configs": 27,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.72,
-        "last_success": "2026-09-17T08:50:17.349716+00:00",
+        "overall_score": 94.45,
+        "last_success": "2026-09-17T12:43:29.757446+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 13,
+          "vless://": 27,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
