@@ -1,65 +1,93 @@
 {
-  "104.21.70.21": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "144.31.168.59": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "129.146.77.248": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "176.108.246.58": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "storage2.elitenetwork.ir": [
-    "🇫🇷",
-    "France"
-  ],
-  "144.31.242.69": [
-    "🇩🇰",
-    "Denmark"
-  ],
-  "89.35.14.33": [
-    "🇲🇩",
-    "Moldova (the Republic of)"
-  ],
-  "134.195.196.211": [
-    "🇨🇦",
-    "Canada"
+  "169.40.42.168": [
+    "🇸🇪",
+    "Sweden"
   ],
   "188.42.145.180": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "162.249.125.133": [
-    "🇷🇴",
-    "Romania"
+  "144.31.2.33": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "129.146.77.248": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "88.99.161.169": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "ahbpanel-production.up.railway.app": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "198.251.78.29": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "82.198.246.233": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "129.146.143.80": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "159.89.87.21": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "47.86.167.194": [
+    "🇭🇰",
+    "Hong Kong"
+  ],
+  "134.195.196.211": [
+    "🇨🇦",
+    "Canada"
+  ],
+  "57.129.132.223": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "77.233.213.106": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "138.201.197.177": [
+    "🇩🇪",
+    "Germany"
+  ],
+  "pl.bubahero.com": [
+    "🇵🇱",
+    "Poland"
   ],
   "139.28.240.68": [
     "🇳🇱",
     "Netherlands (Kingdom of the)"
   ],
-  "render.com": [
-    "🇺🇸",
-    "United States of America"
+  "20.238.35.153": [
+    "🇮🇪",
+    "Ireland"
   ],
-  "176.109.104.195": [
-    "🇷🇺",
-    "Russian Federation"
+  "aotocon.ggisopi.su": [
+    "🇦🇲",
+    "Armenia"
   ],
-  "188.114.97.6": [
-    "🇺🇸",
-    "United States of America"
+  "169.40.42.173": [
+    "🇸🇪",
+    "Sweden"
   ],
-  "144.31.49.138": [
-    "🇷🇺",
-    "Russian Federation"
+  "167.104.219.66": [
+    "🇹🇷",
+    "Turkiye"
   ],
-  "172.67.149.60": [
+  "150.251.113.34": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "199.232.237.79": [
     "🇺🇸",
     "United States of America"
   ],
@@ -67,52 +95,8 @@
     "🇰🇷",
     "Korea (the Republic of)"
   ],
-  "129.146.143.80": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.18.13.229": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "57.129.132.223": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "47.86.167.194": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "91.193.58.201": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "104.21.89.41": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "13.37.81.71": [
-    "🇫🇷",
-    "France"
-  ],
-  "95.85.224.17": [
-    "🇪🇪",
-    "Estonia"
-  ],
-  "188.114.97.7": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "147.90.26.37": [
-    "🇫🇷",
-    "France"
-  ],
-  "162.159.244.91": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "2.27.59.206": [
-    "🇩🇪",
-    "Germany"
+  "5.157.10.250": [
+    "🇸🇪",
+    "Sweden"
   ]
 }
