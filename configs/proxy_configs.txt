@@ -5,59 +5,21 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-vless://026f58a9-b36e-4204-8f8d-54c5374163da@188.225.77.241:443?security=reality&encryption=none&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api.betust.net&sid=d6c172d3#🇷🇺 1 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 1 - US - VLESS/WS/TLS/UTLS - 443
 
-vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=cf.vless.sandesh.fr&fp=chrome&type=ws&allowInsecure=0&sni=cf.vless.sandesh.fr#🇺🇸 2 - US - VLESS/WS/TLS/UTLS - 443
+vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?security=reality&encryption=none&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ee.global-cdn.org&sid=7a3f9e2b1c8d4f6a#🇪🇪 2 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://0ca2dfa0-c6fb-47d6-94de-1f35b95bbb0b@95.182.93.92:58582?mode=auto&path=/?@MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&pbk=zcIOzb_4k_qiXl_Q-7H77H2ZuA-hKerL-KZd_xFhtV0&fp=chrome&spx=/557d6c321729295&type=xhttp&sni=goo.gl&sid=b7fd7feac3da78#🇺🇸 3 - US - VLESS/XHTTP/REALITY/PBK/SID/UTLS - 58582
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=/?ed=2082&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#🇹🇷 3 - TR - VLESS/WS - 8080
 
-vless://0f2b674f-1855-47d3-aa4e-e5e3c637ebcf@116.202.2.27:2053?security=reality&encryption=none&pbk=kQ80VUyUaQF2Qczqb4XqnNdGD8pYwuVNqBEezMjtBTc&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=91.98.44.116&sid=72a35f6d88599886#🇩🇪 4 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 2053
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#🇹🇷 4 - TR - VLESS/WS - 8080
 
-vless://10cb2689-72fc-418d-8d21-cf625e558bec@212.64.210.109:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tr.responsiblecare.uk&sid=c324fdcf18f3390e#🇹🇷 5 - TR - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
+vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.41.33:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#🇺🇸 5 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
 
-vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 6 - US - VLESS/WS/TLS/UTLS - 443
+vless://b2593749-691c-428c-9481-14979cba3446@188.114.97.6:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#🇺🇸 6 - US - VLESS/WS/TLS - 443
 
-vless://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 7 - US - VLESS/WS/TLS/UTLS - 443
+vless://b5d6221d-e3ad-4453-b5c6-8bf7ccaa7aa5@144.31.159.86:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de3.duck-proxy.com#🇩🇪 7 - DE - VLESS/TLS/VISION/UTLS - 443
 
-vless://4d08aa81-f729-4857-a2e9-06e48b8b9556@132.243.65.161:443?security=reality&encryption=none&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ee.global-cdn.org&sid=7a3f9e2b1c8d4f6a#🇪🇪 8 - EE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=/?ed=2082&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#🇹🇷 9 - TR - VLESS/WS - 8080
-
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@trk2.chaqalli.com:8080?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.HZkmJtPesWHuoN7JnEmjat7utDPAEE6gYX0MUvIl-Wk&host=primevideo.com&type=ws#🇹🇷 10 - TR - VLESS/WS - 8080
-
-vless://588456a5-f724-46a7-a08b-5d336d9f8f56@194.76.155.80:40443?security=reality&encryption=none&pbk=3cW_F0us0je_lhnl5xpwSxHyRfTQaKFELxWLr8jRzic&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e496c7fe1cefc9ff#🇫🇷 11 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
-
-vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.41.33:40443?security=reality&encryption=none&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=ee33#🇺🇸 12 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 40443
-
-vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@87.120.104.153:8444?security=reality&encryption=none&pbk=hg6jd3UfeRzy_V02XbyUCuyrgd9TIzaPMwYcdNJ5IDs&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slfst12.ardor-cloud.ru&sid=eb86eee822af1de0#🇳🇴 13 - NO - VLESS/REALITY/PBK/SID/VISION/UTLS - 8444
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@140.248.185.253:443?path=/&security=tls&encryption=none&insecure=0&host=trapbazi.global.ssl.fastly.net&fp=safari&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 14 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@140.248.189.57:80?path=/&security=none&encryption=none&host=Tazia.global.ssl.fastly.net&type=ws#🇺🇸 15 - US - VLESS/WS - 80
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@146.75.84.3:443?path=/&security=tls&encryption=none&insecure=0&host=BechBad.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇸🇪 16 - SE - VLESS/WS/TLS/UTLS - 443
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@151.101.56.7:443?path=/&security=tls&encryption=none&insecure=0&host=kayko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 17 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.237.245:443?path=/&security=tls&encryption=none&insecure=0&host=Tirandazl.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 18 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.246.236:443?path=/&security=tls&encryption=none&insecure=0&host=teranko.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 19 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.249.220:443?path=/&security=tls&encryption=none&insecure=0&host=sardach3.global.ssl.fastly.net&fp=safari&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 20 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=skyfarst.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 21 - US - VLESS/WS/TLS/UTLS - 443
-
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.252:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#🇨🇿 22 - CZ - VLESS/WS/TLS/UTLS - 443
-
-vless://b2593749-691c-428c-9481-14979cba3446@188.114.97.6:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#🇺🇸 23 - US - VLESS/WS/TLS - 443
-
-vless://b40ddc5e-9d01-43e1-975c-30200fda12c4@dl6.sepid-dl.ir:80?path=/api/v2/httpupgrade&security=none&encryption=none&type=httpupgrade#🇩🇪 24 - DE - VLESS/HTTPUPGRADE - 80
-
-vless://b5d6221d-e3ad-4453-b5c6-8bf7ccaa7aa5@144.31.159.86:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de3.duck-proxy.com#🇩🇪 25 - DE - VLESS/TLS/VISION/UTLS - 443
-
-vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@31.76.80.230:8443?path=/assets&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=fin.luxes.network#🇫🇮 26 - FI - VLESS/WS/TLS/UTLS - 8443
-
-vless://ddc0bc7e-04c6-4ff9-9adb-c68c71606e8f@95.217.24.119:2087?security=reality&encryption=none&pbk=_FKzdndiMfCSU5YLVXSBqzk2lIG0W2-DauFpos684Uc&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=62.238.103.54&sid=e9fae729e40ae07e#🇫🇮 27 - FI - VLESS/REALITY/PBK/SID/VISION/UTLS - 2087
+vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@31.76.80.230:8443?path=/assets&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=fin.luxes.network#🇫🇮 8 - FI - VLESS/WS/TLS/UTLS - 8443
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🇿🇦 1 - ZA - SS/AEAD - 443
 

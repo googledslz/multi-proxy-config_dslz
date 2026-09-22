@@ -1,28 +1,4 @@
 {
-  "104.18.35.85": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "199.232.78.159": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "95.217.24.119": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "132.243.65.161": [
-    "🇪🇪",
-    "Estonia"
-  ],
-  "103.136.68.36": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "199.232.246.236": [
-    "🇺🇸",
-    "United States of America"
-  ],
   "72.56.41.33": [
     "🇺🇸",
     "United States of America"
@@ -31,84 +7,36 @@
     "🇿🇦",
     "South Africa"
   ],
-  "144.31.49.138": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "188.114.97.6": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "146.75.84.3": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "116.202.2.27": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "195.85.23.252": [
-    "🇨🇿",
-    "Czechia"
-  ],
-  "31.76.80.230": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "144.31.159.86": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "140.248.185.253": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "95.182.93.92": [
-    "🇺🇸",
-    "United States of America"
-  ],
   "trk2.chaqalli.com": [
     "🇹🇷",
     "Turkiye"
-  ],
-  "199.232.249.220": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "194.76.155.80": [
-    "🇫🇷",
-    "France"
-  ],
-  "199.232.237.245": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "151.101.56.7": [
-    "🇺🇸",
-    "United States of America"
   ],
   "k2.cloud--vpn.site": [
     "🇺🇸",
     "United States of America"
   ],
-  "140.248.189.57": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "dl6.sepid-dl.ir": [
+  "144.31.159.86": [
     "🇩🇪",
     "Germany"
   ],
-  "87.120.104.153": [
-    "🇳🇴",
-    "Norway"
+  "31.76.80.230": [
+    "🇫🇮",
+    "Finland"
   ],
-  "212.64.210.109": [
-    "🇹🇷",
-    "Turkiye"
-  ],
-  "188.225.77.241": [
+  "144.31.49.138": [
     "🇷🇺",
     "Russian Federation"
+  ],
+  "103.136.68.36": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "188.114.97.6": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "132.243.65.161": [
+    "🇪🇪",
+    "Estonia"
   ]
 }
