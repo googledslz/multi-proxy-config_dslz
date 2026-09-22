@@ -1,59 +1,7 @@
 {
-  "87.120.104.153": [
-    "🇳🇴",
-    "Norway"
-  ],
-  "195.85.23.252": [
-    "🇨🇿",
-    "Czechia"
-  ],
-  "194.76.155.80": [
-    "🇫🇷",
-    "France"
-  ],
-  "de3.edge-9d7c.com": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
   "104.18.35.85": [
     "🇺🇸",
     "United States of America"
-  ],
-  "app16.betust.net": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "67.159.17.62": [
-    "🇦🇹",
-    "Austria"
-  ],
-  "156.146.38.169": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "95.182.93.92": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "8.47.69.0": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "5.78.28.48": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "188.225.77.241": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "212.64.210.109": [
-    "🇹🇷",
-    "Turkiye"
-  ],
-  "95.217.24.119": [
-    "🇫🇮",
-    "Finland"
   ],
   "188.225.57.78": [
     "🇷🇺",
@@ -62,5 +10,57 @@
   "116.202.2.27": [
     "🇩🇪",
     "Germany"
+  ],
+  "188.225.77.241": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "95.182.93.92": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "87.120.104.153": [
+    "🇳🇴",
+    "Norway"
+  ],
+  "195.85.23.252": [
+    "🇨🇿",
+    "Czechia"
+  ],
+  "95.217.24.119": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "de3.edge-9d7c.com": [
+    "🇬🇧",
+    "United Kingdom of Great Britain and Northern Ireland"
+  ],
+  "8.47.69.0": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "67.159.17.62": [
+    "🇦🇹",
+    "Austria"
+  ],
+  "194.76.155.80": [
+    "🇫🇷",
+    "France"
+  ],
+  "212.64.210.109": [
+    "🇹🇷",
+    "Turkiye"
+  ],
+  "app16.betust.net": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "156.146.38.169": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "5.78.28.48": [
+    "🇺🇸",
+    "United States of America"
   ]
 }
