@@ -1,61 +1,5 @@
 {
-  "gesmankos.sadiepinki.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "104.16.22.21": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "188.225.83.133": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "k2.cloud--vpn.site": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "150.40.126.24": [
-    "🇷🇸",
-    "Serbia"
-  ],
-  "down.chaqalli.com": [
-    "🇮🇷",
-    "Iran (Islamic Republic of)"
-  ],
-  "fl.overpingo.sbs": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "185.71.219.128": [
-    "🇹🇷",
-    "Turkiye"
-  ],
-  "194.77.71.152": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "45.95.96.236": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "144.31.2.33": [
-    "🇵🇱",
-    "Poland"
-  ],
   "188.114.97.6": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "a2.arshia-nova.ir": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "g2.haxat.bestvbest.ir": [
-    "🇮🇷",
-    "Iran (Islamic Republic of)"
-  ],
-  "b2n.ir": [
     "🇺🇸",
     "United States of America"
   ],
@@ -63,31 +7,7 @@
     "🇨🇭",
     "Switzerland"
   ],
-  "5xgovtcyqgoh5tedrlj6sg--sn9pbh.mahsapodcst.workers.dev": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "91.210.169.181": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "188.114.97.7": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "144.31.5.3": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "74.234.59.81": [
-    "🇮🇪",
-    "Ireland"
-  ],
-  "193.163.203.170": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "151.101.56.6": [
+  "b2n.ir": [
     "🇺🇸",
     "United States of America"
   ],
@@ -95,16 +15,64 @@
     "🇺🇸",
     "United States of America"
   ],
-  "31.76.249.44": [
-    "🇱🇮",
-    "Liechtenstein"
+  "down.chaqalli.com": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "74.234.59.81": [
+    "🇮🇪",
+    "Ireland"
   ],
   "172.67.216.37": [
     "🇺🇸",
     "United States of America"
   ],
-  "31.43.179.8": [
-    "🇰🇿",
-    "Kazakhstan"
+  "144.31.5.3": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "144.31.2.33": [
+    "🇵🇱",
+    "Poland"
+  ],
+  "fl.overpingo.sbs": [
+    "🇫🇮",
+    "Finland"
+  ],
+  "188.114.97.7": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "91.210.169.181": [
+    "🇷🇺",
+    "Russian Federation"
+  ],
+  "45.95.96.236": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "gesmankos.sadiepinki.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "a2.arshia-nova.ir": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "31.76.249.44": [
+    "🇱🇮",
+    "Liechtenstein"
+  ],
+  "k2.cloud--vpn.site": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "g2.haxat.bestvbest.ir": [
+    "🇮🇷",
+    "Iran (Islamic Republic of)"
+  ],
+  "5xgovtcyqgoh5tedrlj6sg--sn9pbh.mahsapodcst.workers.dev": [
+    "🇺🇸",
+    "United States of America"
   ]
 }
