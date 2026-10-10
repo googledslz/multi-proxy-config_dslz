@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-10T13:55:52.128000+00:00",
+  "timestamp": "2026-10-10T17:57:33.210700+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -28,21 +28,21 @@
       "url": "https://t.me/s/Farah_VPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 200,
-        "valid_configs": 73,
-        "unique_configs": 73,
-        "avg_response_time": 0.38,
+        "total_configs": 197,
+        "valid_configs": 45,
+        "unique_configs": 45,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.55,
-        "last_success": "2026-10-10T13:55:33.383255+00:00",
+        "overall_score": 80.2,
+        "last_success": "2026-10-10T17:57:14.764579+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 30,
+          "vmess://": 27,
           "ss://": 0,
-          "trojan://": 43,
+          "trojan://": 18,
           "tuic://": 0
         }
       }
@@ -95,23 +95,23 @@
     },
     {
       "url": "https://t.me/s/proxymtprotoir",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 15,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.29,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 92.89,
-        "last_success": "2026-10-10T13:55:40.499853+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 10,
+          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 1,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
