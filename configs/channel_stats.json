@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T12:52:49.410031+00:00",
+  "timestamp": "2026-10-20T18:05:24.187225+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -28,21 +28,21 @@
       "url": "https://t.me/s/Farah_VPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 199,
-        "valid_configs": 48,
-        "unique_configs": 48,
-        "avg_response_time": 0.28,
+        "total_configs": 198,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.61,
-        "last_success": "2026-10-20T12:52:31.343203+00:00",
+        "overall_score": 75.86,
+        "last_success": "2026-10-20T18:05:05.407850+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 29,
+          "vmess://": 10,
           "ss://": 0,
-          "trojan://": 19,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
@@ -95,23 +95,23 @@
     },
     {
       "url": "https://t.me/s/proxymtprotoir",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 10,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.26,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 97.11,
-        "last_success": "2026-10-20T12:52:38.204974+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 7,
+          "vless://": 0,
           "vmess://": 0,
-          "ss://": 1,
-          "trojan://": 1,
+          "ss://": 0,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
@@ -120,7 +120,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 8,
+        "total_configs": 9,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
