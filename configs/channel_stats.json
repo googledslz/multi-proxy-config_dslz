@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T14:26:10.865423+00:00",
+  "timestamp": "2026-11-01T18:30:45.229485+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -28,21 +28,21 @@
       "url": "https://t.me/s/Farah_VPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 200,
-        "valid_configs": 63,
-        "unique_configs": 63,
-        "avg_response_time": 0.32,
+        "total_configs": 199,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.4,
-        "last_success": "2026-11-01T14:25:52.691789+00:00",
+        "overall_score": 76.12,
+        "last_success": "2026-11-01T18:30:26.970772+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 19,
+          "vmess://": 12,
           "ss://": 0,
-          "trojan://": 44,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -120,7 +120,7 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": false,
       "metrics": {
-        "total_configs": 10,
+        "total_configs": 9,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
