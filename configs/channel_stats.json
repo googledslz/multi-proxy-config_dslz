@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-06T23:45:49.199151+00:00",
+  "timestamp": "2026-11-07T02:13:46.414265+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -29,20 +29,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 199,
-        "valid_configs": 60,
-        "unique_configs": 60,
-        "avg_response_time": 0.39,
+        "valid_configs": 27,
+        "unique_configs": 27,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.96,
-        "last_success": "2026-11-06T23:45:30.619108+00:00",
+        "overall_score": 77.98,
+        "last_success": "2026-11-07T02:13:28.474466+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 25,
+          "vmess://": 14,
           "ss://": 0,
-          "trojan://": 35,
+          "trojan://": 13,
           "tuic://": 0
         }
       }
