@@ -130,6 +130,7 @@
                 "🇳🇱 528 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 535 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 536 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+                "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
@@ -145,6 +146,7 @@
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 221 - NL - SS/AEAD - 8080",
                 "🇳🇱 222 - NL - SS/AEAD - 8080",
+                "🇬🇧 238 - GB - SS/AEAD - 443",
                 "direct"
             ]
         },
@@ -184,6 +186,7 @@
                 "🇳🇱 528 - NL - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 535 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
                 "🇫🇷 536 - FR - VLESS/REALITY/PBK/SID/VISION/UTLS - 23576",
+                "🇷🇴 132 - RO - SS/AEAD - 443",
                 "🇿🇦 155 - ZA - SS/AEAD - 443",
                 "🇳🇱 189 - NL - SS/AEAD - 8080",
                 "🇳🇱 190 - NL - SS/AEAD - 8080",
@@ -198,7 +201,8 @@
                 "🇳🇱 199 - NL - SS/AEAD - 8080",
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 221 - NL - SS/AEAD - 8080",
-                "🇳🇱 222 - NL - SS/AEAD - 8080"
+                "🇳🇱 222 - NL - SS/AEAD - 8080",
+                "🇬🇧 238 - GB - SS/AEAD - 443"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -822,6 +826,14 @@
         },
         {
             "type": "shadowsocks",
+            "tag": "🇷🇴 132 - RO - SS/AEAD - 443",
+            "server": "154.46.31.106",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "QFWzCw2uX9B9i6qAYeFBIE"
+        },
+        {
+            "type": "shadowsocks",
             "tag": "🇿🇦 155 - ZA - SS/AEAD - 443",
             "server": "102.37.156.224",
             "server_port": 443,
@@ -939,6 +951,14 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "type": "shadowsocks",
+            "tag": "🇬🇧 238 - GB - SS/AEAD - 443",
+            "server": "141.98.101.182",
+            "server_port": 443,
+            "method": "aes-128-gcm",
+            "password": "shadowsocks"
         }
     ],
     "route": {
