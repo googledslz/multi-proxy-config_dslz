@@ -146,7 +146,6 @@
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 221 - NL - SS/AEAD - 8080",
                 "🇳🇱 222 - NL - SS/AEAD - 8080",
-                "🇬🇧 238 - GB - SS/AEAD - 443",
                 "direct"
             ]
         },
@@ -201,8 +200,7 @@
                 "🇳🇱 199 - NL - SS/AEAD - 8080",
                 "🇳🇱 200 - NL - SS/AEAD - 8080",
                 "🇳🇱 221 - NL - SS/AEAD - 8080",
-                "🇳🇱 222 - NL - SS/AEAD - 8080",
-                "🇬🇧 238 - GB - SS/AEAD - 443"
+                "🇳🇱 222 - NL - SS/AEAD - 8080"
             ],
             "url": "https://www.gstatic.com/generate_204",
             "interrupt_exist_connections": false,
@@ -951,14 +949,6 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-        },
-        {
-            "type": "shadowsocks",
-            "tag": "🇬🇧 238 - GB - SS/AEAD - 443",
-            "server": "141.98.101.182",
-            "server_port": 443,
-            "method": "aes-128-gcm",
-            "password": "shadowsocks"
         }
     ],
     "route": {
