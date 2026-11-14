@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T14:24:49.768009+00:00",
+  "timestamp": "2026-11-14T18:49:41.225184+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_configs_pool",
@@ -29,20 +29,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 199,
-        "valid_configs": 30,
-        "unique_configs": 30,
-        "avg_response_time": 0.32,
+        "valid_configs": 40,
+        "unique_configs": 40,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.28,
-        "last_success": "2026-11-14T14:24:31.923636+00:00",
+        "overall_score": 79.53,
+        "last_success": "2026-11-14T18:49:22.822587+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 17,
+          "vmess://": 23,
           "ss://": 0,
-          "trojan://": 13,
+          "trojan://": 17,
           "tuic://": 0
         }
       }
@@ -97,18 +97,18 @@
       "url": "https://t.me/s/proxymtprotoir",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 16,
-        "unique_configs": 16,
-        "avg_response_time": 0.24,
+        "total_configs": 10,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.27,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.64,
-        "last_success": "2026-11-14T14:24:38.660338+00:00",
+        "overall_score": 97.1,
+        "last_success": "2026-11-14T18:49:29.721114+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 16,
+          "vless://": 9,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
