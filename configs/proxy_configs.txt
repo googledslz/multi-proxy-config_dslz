@@ -17,15 +17,7 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=conn
 
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#🇪🇸 6 - ES - Trojan/TLS - 443
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com#🇳🇱 7 - NL - Trojan/TLS - 443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com#🇳🇱 7 - NL - Trojan/TLS - 443
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com#🇳🇱 8 - NL - Trojan/TLS - 443
-
-trojan://12012@47.242.93.89:12012?allowInsecure=1&sni=ali-hk.b-gfw.cfd#🇭🇰 9 - HK - Trojan/TLS - 12012
-
-trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇺🇸 10 - US - Trojan/TLS - 50875
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsvCfh74gMSAtIE1ZIC0gVk1lc3MgLSAxMDAwMCIsICJhZGQiOiAiNDcuMjUwLjEzNS4yNDQiLCAicG9ydCI6IDEwMDAwLCAiaWQiOiAiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJhbHBuIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+HsvCfh74gSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7Lwn4e+In0=
-
-vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMzUwNDMsICJwcyI6ICLwn4et8J+HsCAyIC0gSEsgLSBWTWVzcy9XUyAtIDM1MDQzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgIm5hbWUiOiAi8J+HrfCfh7AgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh63wn4ewIn0=
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇺🇸 8 - US - Trojan/TLS - 50875
 
