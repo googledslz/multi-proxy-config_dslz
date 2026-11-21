@@ -13,7 +13,7 @@ vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=/api/vless&
 
 vless://39397ce8-51f5-4780-957f-942b4dfd75f7@uyt24-k2.miniseries.ir:49673?security=none&encryption=mlkem768x25519plus.native.0rtt.y5JdNqCVO7XqO9RT4eXLtujAUrOcx_xjNI5us06yMBI&host=docs.github.com&headerType=http&type=tcp&flow=xtls-rprx-vision#🇳🇱 4 - NL - VLESS/VISION - 49673
 
-vless://517c786d-84cd-4401-b638-d3c63c739a2b@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#🇺🇸 5 - US - VLESS/WS/TLS - 443
+vless://517c786d-84cd-4401-b638-d3c63c739a2b@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#🇸🇪 5 - SE - VLESS/WS/TLS - 443
 
 vless://79105268-2a3f-4b02-a299-839c8919b365@146.75.57.120:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=Lxxn-speed.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#🇸🇪 6 - SE - VLESS/XHTTP/TLS/UTLS - 443
 
