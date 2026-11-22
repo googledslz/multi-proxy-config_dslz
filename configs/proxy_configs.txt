@@ -1,9 +1,0 @@
-//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
-
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#🇳🇱 1 - NL - SS/AEAD - 8080
-
