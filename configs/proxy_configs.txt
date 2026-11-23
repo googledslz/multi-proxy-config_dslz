@@ -5,43 +5,23 @@
 //profile-web-page-url: https://github.com/4n0nymou3
 
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#🇸🇬 1 - SG - Trojan/TLS - 443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?#🇨🇦 1 - CA - Trojan/TLS - 443
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#🇰🇷 2 - KR - Trojan/TLS - 443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#🇦🇺 2 - AU - Trojan/TLS - 443
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.158:443?#🇨🇭 3 - CH - Trojan/TLS - 443
+trojan://LDSLDq9XlM4-92pvTPOUuklMb99BLOCrdyejsupEca4@156.246.93.237:17443?allowInsecure=1&sni=jpk.wentibuxiaobuda.xyz#🇯🇵 3 - JP - Trojan/TLS - 17443
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.33:443?sni=courses.yourultimateprofessionalcareerhub.com#🇨🇭 4 - CH - Trojan/TLS - 443
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#🇭🇰 4 - HK - Trojan/TLS - 20123
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?#🇨🇦 5 - CA - Trojan/TLS - 443
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cgMSAtIEtSIC0gVk1lc3MvV1MgLSAxNjYxNiIsICJhZGQiOiAiYWZ6dXYueGlhb3lhbi5pbyIsICJwb3J0IjogMTY2MTYsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJmOTMwOWNjODg2MzdjMjZmNTUyYTFhNjRmYjMxMWNhZS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh7nwn4e8IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e58J+HvCJ9
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 6 - CA - Trojan/TLS - 443
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cgMiAtIEtSIC0gVk1lc3MgLSA0NDMiLCAiYWRkIjogIjE0MC4yMzguMi4yNTAiLCAicG9ydCI6IDQ0MywgImlkIjogIjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh7Dwn4e3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4ew8J+HtyJ9
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?sni=connectwithemployerstohireyouridealteam.com#🇦🇺 7 - AU - Trojan/TLS - 443
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggMyAtIFVTIC0gVk1lc3MvV1MvVExTIC0gMzAwMDQiLCAiYWRkIjogIjE5Mi43NC4yMzYuMTQ4IiwgInBvcnQiOiAzMDAwNCwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzM0Nzc3ODM3MDUiLCAiaG9zdCI6ICJ3d3cuOTEzMzQ1NjUueHl6IiwgInRscyI6ICJ0bHMiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh7rwn4e4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e68J+HuCJ9
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?#🇪🇸 8 - ES - Trojan/TLS - 443
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7ggNCAtIFVTIC0gVk1lc3MgLSAxODAwMCIsICJhZGQiOiAiMzguOTEuMTA3LjQ5IiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4e68J+HuCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HuvCfh7gifQ==
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?#🇳🇱 9 - NL - Trojan/TLS - 443
+vmess://eyJhZGQiOiAiMTQyLjIwMi40OC44NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTI3MCwgInBzIjogIvCfh7rwn4e4IDUgLSBVUyAtIFZNZXNzL1RMUyAtIDEyNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+HuvCfh7ggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7rwn4e4In0=
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com#🇳🇱 10 - NL - Trojan/TLS - 443
-
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@a2dgus.supertoolify.com:443?allowInsecure=1&sni=a2dgus.supertoolify.com#🇺🇸 11 - US - Trojan/TLS - 443
-
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg1.hikigo.com:443?allowInsecure=1&sni=bgsg1.hikigo.com#🇸🇬 12 - SG - Trojan/TLS - 443
-
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#🇮🇩 13 - ID - Trojan/TLS - 443
-
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#🇲🇾 14 - MY - Trojan/TLS - 443
-
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?security=tls&sni=hk.catxstar.com#🇺🇸 15 - US - Trojan/TLS - 20103
-
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#🇭🇰 16 - HK - Trojan/TLS - 20123
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgMSAtIEhLIC0gVk1lc3MvV1MgLSAxNjYzMiIsICJhZGQiOiAicGRtdjQueGlhb3lhbi5pbyIsICJwb3J0IjogMTY2MzIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjkwNGYwNTY5LTg2OTUtNDY2Zi05N2NmLTBkZTJmYWNlMWI0NiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgImhvc3QiOiAiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAibmFtZSI6ICLwn4et8J+HsCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HrfCfh7AifQ==
-
-vmess://eyJhZGQiOiAiNjIuOTMuMTY2LjE4NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTI3MCwgInBzIjogIvCfh7jwn4eqIDIgLSBTRSAtIFZNZXNzL1RMUyAtIDEyNzAiLCAic2N5IjogImF1dG8iLCAic25pIjogInhtZmhscHkuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgIm5hbWUiOiAi8J+HuPCfh6ogSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIPCfh7jwn4eqIn0=
-
-vmess://eyJhZGQiOiAiMTY3Ljg4LjYyLjUxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxMjcwLCAicHMiOiAi8J+HuvCfh7ggMyAtIFVTIC0gVk1lc3MvVExTIC0gMTI3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAieG1maGxweS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICLwn4e68J+HuCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4g8J+HuvCfh7gifQ==
-
-vmess://eyJhZGQiOiAiMTcyLjExMS4zNi4xMjYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEyNzAsICJwcyI6ICLwn4e68J+HuCA0IC0gVVMgLSBWTWVzcy9UTFMgLSAxMjcwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh7rwn4e4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4e68J+HuCJ9
+vmess://eyJhZGQiOiAiMTg1LjE3Ny4yMjkuOTUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEyNzAsICJwcyI6ICLwn4ep8J+HqiA2IC0gREUgLSBWTWVzcy9UTFMgLSAxMjcwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ4bWZobHB5LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIvCfh6nwn4eqIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiDwn4ep8J+HqiJ9
 
